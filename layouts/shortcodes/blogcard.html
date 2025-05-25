@@ -1,0 +1,15 @@
+<div class="blogcard">
+  <a href="{{ .Get "url" }}" target="_blank" rel="noopener">
+    <div class="blogcard-inner">
+      {{ with .Get "image" }}
+      <div class="blogcard-thumb">
+        <img src="{{ . }}" alt="card image" />
+      </div>
+      {{ end }}
+      <div class="blogcard-content">
+        <strong class="blogcard-title">{{ .Get "title" }}</strong>
+        <div class="blogcard-domain">{{ .Get "domain" }}</div>
+      </div>
+    </div>
+  </a>
+</div>

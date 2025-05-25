@@ -1,0 +1,200 @@
+@font-face {
+  font-family: material-icons;
+  src: url(../fonts/material-icons.ttf?xdbxjz) format('truetype'),
+    url(../fonts/material-icons.woff?xdbxjz) format('woff'),
+    url(../fonts/material-icons.svg?xdbxjz#material-icons) format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+[class*=' icon-'],
+[class^='icon-'] {
+  font-family: material-icons !important;
+  speak: never;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-email:before {
+  content: '\e902';
+}
+.icon-message:before {
+  content: '\e900';
+}
+.icon-create:before {
+  content: '\e901';
+}
+.icon-send:before {
+  content: '\e906';
+}
+.icon-access_time:before {
+  content: '\e903';
+}
+.icon-sun:before {
+  content: '\e90b';
+}
+.icon-folder:before {
+  content: '\e907';
+}
+.icon-keyboard_arrow_left:before {
+  content: '\e904';
+}
+.icon-keyboard_arrow_right:before {
+  content: '\e905';
+}
+.icon-moon:before {
+  content: '\e90c';
+}
+.icon-local_offer:before {
+  content: '\e908';
+}
+.icon-menu:before {
+  content: '\e909';
+}
+.icon-person:before {
+  content: '\e90a';
+}
+
+/* content */
+input,
+textarea {
+  -webkit-appearance: none;
+}
+
+/* ---置き換え前---
+.blogcard {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 1rem 0;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+.blogcard a {
+  text-decoration: none;
+  color: inherit;
+}
+.card-inner {
+  display: block;
+}
+.domain {
+  font-size: 0.8em;
+  color: #777;
+}
+*/
+
+/* --- Blogcard Base Styles --- */
+.blogcard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 1rem 0;
+  background: #fff;
+  overflow: hidden;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+  transition: background 0.2s ease;
+}
+
+.blogcard a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.blogcard-inner {
+  display: flex;
+  align-items: center;
+}
+
+.blogcard-thumb {
+  flex-shrink: 0;
+  width: 120px;
+  height: 90px;
+  overflow: hidden;
+  background: #eee;
+}
+
+.blogcard-thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.blogcard-content {
+  padding: 10px;
+  flex: 1;
+}
+
+.blogcard-title {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.blogcard-domain {
+  font-size: 0.8rem;
+  color: #777;
+}
+
+/* メインとサイドバーを確実に横並びにする */
+.lg\\:flex {
+  align-items: flex-start;
+}
+
+/* メインカラムの高さを強制的にある程度確保する（記事が短くても崩れ防止） */
+main {
+  min-height: 400px;
+}
+
+a.external-link {
+  display: inline-block;
+  word-break: break-all;
+  overflow-wrap: break-word;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.375rem;
+  background-color: #f9fafb;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+nav.breadcrumb a {
+  color: #4b5563;
+}
+nav.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.toc {
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  border-left: 4px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 6px;
+}
+
+.toc ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+.toc li {
+  margin: 0.3rem 0;
+}
+
+.toc a {
+  color: #1a202c;
+  text-decoration: underline;
+}
+
+.dark .toc {
+  background-color: #2d3748;
+  border-color: #4a5568;
+}
+
+.dark .toc a {
+  color: #e2e8f0;
+}
+

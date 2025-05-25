@@ -1,0 +1,51 @@
+
+/* 最終版ブログカードCSS */
+
+.blogcard {
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1rem 0;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.blogcard a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.blogcard-inner {
+  display: flex;
+  align-items: flex-start;
+}
+
+.blogcard-thumb {
+  flex-shrink: 0;
+  width: 160px;
+  height: auto;
+}
+
+.blogcard-thumb img {
+  width: 160px;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+.blogcard-content {
+  padding: 0 10px;
+  flex: 1;
+}
+
+.blogcard-title {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.blogcard-domain {
+  font-size: 0.8rem;
+  color: #777;
+}
