@@ -9,7 +9,7 @@ categories:
 tags:
 - エネルギー危機
 - 気候変動
-image: img/2023/05/img_8443.png
+image: /img/2023/05/img_8443.png
 ---
 ## コメントなど 
 

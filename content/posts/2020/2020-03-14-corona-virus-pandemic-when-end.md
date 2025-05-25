@@ -15,7 +15,7 @@ categories:
 - ドイツ時事ジャーナル
 - 政治
 - 生活
-image: img/2020/03/coronavirus-4833616__480.jpg
+image: /img/2020/03/coronavirus-4833616__480.jpg
 ---
 パンデミックがWHOから宣言された  
 新型肺炎、コロナウイルスですが、

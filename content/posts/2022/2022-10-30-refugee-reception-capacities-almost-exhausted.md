@@ -19,7 +19,7 @@ categories:
 tags:
 - ウクライナ
 - 難民
-image: img/2022/10/refugee_map-of-the-world-1005416__480.jpg
+image: /img/2022/10/refugee_map-of-the-world-1005416__480.jpg
 ---
 地続きで国境を接している  
 しかも距離的に比較的近い

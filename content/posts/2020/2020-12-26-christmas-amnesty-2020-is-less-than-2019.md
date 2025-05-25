@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2020/12/weihnachten-table-791149__480.png
+image: /img/2020/12/weihnachten-table-791149__480.png
 ---
 一州だけやらないとなると
 

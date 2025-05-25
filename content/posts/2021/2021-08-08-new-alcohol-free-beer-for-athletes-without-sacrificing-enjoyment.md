@@ -18,7 +18,7 @@ categories:
 - 技術
 tags:
 - ノンアル飲料
-image: img/2021/08/vitamin-b-871135__480.jpg
+image: /img/2021/08/vitamin-b-871135__480.jpg
 ---
 新しいビールって
 

@@ -9,7 +9,7 @@ categories:
 tags:
 - 中国
 - 電気自動車
-image: img/2022/10/img_6604.jpg
+image: /img/2022/10/img_6604.jpg
 ---
 Nioは中国駐在中に展示会で何度か見ました
 

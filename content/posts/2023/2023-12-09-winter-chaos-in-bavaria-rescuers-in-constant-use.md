@@ -19,7 +19,7 @@ categories:
 tags:
 - レスキュー
 - 天候
-image: img/2023/12/jam-3065150_1280.jpg
+image: /img/2023/12/jam-3065150_1280.jpg
 ---
 ## コメントなど
 急に大雪になると  

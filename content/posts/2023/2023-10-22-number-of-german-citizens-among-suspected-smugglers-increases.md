@@ -19,7 +19,7 @@ categories:
 tags:
 - モラル
 - 密入国
-image: img/2023/10/migrant-393130_1280.jpg
+image: /img/2023/10/migrant-393130_1280.jpg
 ---
 ドイツ人も不法入国幇助のような  
 活動に直接関与するようになったことを  

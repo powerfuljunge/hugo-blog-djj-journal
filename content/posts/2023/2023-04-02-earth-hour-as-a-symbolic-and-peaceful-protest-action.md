@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 気候変動
-image: img/2023/04/clock-4369845__480.jpg
+image: /img/2023/04/clock-4369845__480.jpg
 ---
 毎年３月の最終土曜日が&#8221;Earth Hour&#8221;だそうです。  
 私は、全く認識していませんでした。

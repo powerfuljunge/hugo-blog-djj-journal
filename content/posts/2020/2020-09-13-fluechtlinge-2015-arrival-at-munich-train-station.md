@@ -19,7 +19,7 @@ tags:
 - 人種差別
 - 移民
 - 難民
-image: img/2020/09/fluechtlinge-integration-2489607__480.jpg
+image: /img/2020/09/fluechtlinge-integration-2489607__480.jpg
 ---
 難民がヨーロッパに続々と流れた時から  
 5年経ったのですね。

@@ -19,7 +19,7 @@ tags:
 - リチウム電池
 - 新型コロナウイルス
 - 電気自動車
-image: img/2020/06/E-mobilitaet_concept-car-737337__480.png
+image: /img/2020/06/E-mobilitaet_concept-car-737337__480.png
 ---
 携帯とかPC、タブレット端末などが  
 最も身近なリチウム充電池の用途ですね。

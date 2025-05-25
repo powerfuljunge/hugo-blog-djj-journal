@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 天然ガス
-image: img/2022/10/energy-7436954__480.jpg
+image: /img/2022/10/energy-7436954__480.jpg
 ---
 ドイツはロシアの天然ガスにかなり  
 依存しているのは知られています

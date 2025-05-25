@@ -18,7 +18,7 @@ tags:
 - 免疫
 - 新型コロナ
 - 新型コロナウイルス変異株
-image: img/2021/10/robert-koch-institute-6035752__480.jpg
+image: /img/2021/10/robert-koch-institute-6035752__480.jpg
 ---
 Sieben-Tage-Inzidenz  
 ７日インデックス  

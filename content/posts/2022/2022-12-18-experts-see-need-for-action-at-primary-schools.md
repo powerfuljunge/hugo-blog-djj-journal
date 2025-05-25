@@ -16,7 +16,7 @@ the_review_rate:
 categories:
 - ドイツ時事ジャーナル
 - 生活
-image: img/2022/12/mathematics-1509559__480.jpg
+image: /img/2022/12/mathematics-1509559__480.jpg
 ---
 小学生の算数、国語能力が落ちている
 

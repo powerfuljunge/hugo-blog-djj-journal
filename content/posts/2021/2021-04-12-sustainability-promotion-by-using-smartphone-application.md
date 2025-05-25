@@ -18,7 +18,7 @@ tags:
 - ネット社会
 - 気候変動
 - 環境
-image: img/2021/04/sustainability-icons-5924492_1280.png
+image: /img/2021/04/sustainability-icons-5924492_1280.png
 ---
 持続可能な日常の行動をサポートするアプリ  
 はSUSLAというそうです

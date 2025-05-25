@@ -19,7 +19,7 @@ categories:
 tags:
 - 物価
 - 食料品
-image: img/2025/02/Edeka-in-trouble.jpg
+image: /img/2025/02/Edeka-in-trouble.jpg
 ---
 ## コメントなど 
 

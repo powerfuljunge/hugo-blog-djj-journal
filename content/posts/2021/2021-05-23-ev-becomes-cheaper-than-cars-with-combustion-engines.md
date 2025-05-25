@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - 電気自動車
-image: img/2021/05/electric-2778403_1920-1.jpg
+image: /img/2021/05/electric-2778403_1920-1.jpg
 ---
 ブルームバーグの調査によると
 

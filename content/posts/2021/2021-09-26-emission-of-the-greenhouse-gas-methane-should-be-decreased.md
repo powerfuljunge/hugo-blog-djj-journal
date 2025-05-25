@@ -19,7 +19,7 @@ tags:
 - 環境保護
 - 環境政策
 - 選挙
-image: img/2021/09/klimakrise-global-warming-347499__480.jpg
+image: /img/2021/09/klimakrise-global-warming-347499__480.jpg
 ---
 ドイツ連邦議会選挙が迫っています  
   

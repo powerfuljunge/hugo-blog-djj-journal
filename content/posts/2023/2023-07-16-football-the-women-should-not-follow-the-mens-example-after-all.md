@@ -19,7 +19,7 @@ categories:
 tags:
 - サッカー
 - ワールドカップ
-image: img/2023/07/soccer-women-5430983_1280.jpg
+image: /img/2023/07/soccer-women-5430983_1280.jpg
 ---
 女子サッカーワールドカップは<span class="fz-22px"><span class="bold-red">７月２０日開幕</span></span>ですね。
 

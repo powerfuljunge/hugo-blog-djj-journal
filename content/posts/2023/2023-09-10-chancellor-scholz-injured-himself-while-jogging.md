@@ -20,7 +20,7 @@ categories:
 tags:
 - スポーツ
 - ドイツ首相
-image: img/2023/09/pirates_cartoon-1297275_1280.jpg
+image: /img/2023/09/pirates_cartoon-1297275_1280.jpg
 ---
 ## コメントなど
 政治家っていうのは  

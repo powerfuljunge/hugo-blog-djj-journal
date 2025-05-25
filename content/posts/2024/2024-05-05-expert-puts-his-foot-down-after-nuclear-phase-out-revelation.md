@@ -19,7 +19,7 @@ categories:
 - 産業
 tags:
 - 脱原発
-image: img/2024/05/atom-energy-discussion.jpg
+image: /img/2024/05/atom-energy-discussion.jpg
 ---
 ## コメントなど
 Ciceroの暴露とは↓↓↓

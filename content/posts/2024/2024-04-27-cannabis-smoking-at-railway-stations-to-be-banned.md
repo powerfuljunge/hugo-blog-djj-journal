@@ -19,7 +19,7 @@ categories:
 tags:
 - ドイツ鉄道
 - 大麻
-image: img/2024/04/deutsche-bahn-no-smoking.jpg
+image: /img/2024/04/deutsche-bahn-no-smoking.jpg
 ---
 ## コメントなど
 合法化された法律とは

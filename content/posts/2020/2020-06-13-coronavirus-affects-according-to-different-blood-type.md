@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2020/06/blood-type.png
+image: /img/2020/06/blood-type.png
 ---
 コロナ感染者の血液型と症状には関連性が  
 あるそうです。

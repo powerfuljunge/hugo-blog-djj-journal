@@ -19,7 +19,7 @@ categories:
 tags:
 - スタートアップ
 - 起業家
-image: img/2023/09/startup-1805215_1280.png
+image: /img/2023/09/startup-1805215_1280.png
 ---
 ## コメントなど
 どんな調査なのかというと

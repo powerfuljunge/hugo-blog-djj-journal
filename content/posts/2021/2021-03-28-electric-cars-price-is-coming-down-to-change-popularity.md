@@ -18,7 +18,7 @@ categories:
 tags:
 - 環境
 - 電気自動車
-image: img/2021/03/ev-amsterdam-916561__480.jpg
+image: /img/2021/03/ev-amsterdam-916561__480.jpg
 ---
 ダチア（Ｄａｃｉａ）って車のメーカ  
 知ってますか？

@@ -17,7 +17,7 @@ categories:
 tags:
 - 気候変動
 - 環境
-image: img/2021/06/klimawandel-landscape-2806202__480-1.jpg
+image: /img/2021/06/klimawandel-landscape-2806202__480-1.jpg
 ---
 ショイブレさんの発言とは・・・？
 

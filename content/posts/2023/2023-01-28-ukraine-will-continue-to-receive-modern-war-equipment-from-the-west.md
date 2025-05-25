@@ -20,7 +20,7 @@ tags:
 - ウクライナ
 - 戦争
 - 武器
-image: img/2023/01/main-battle-tank-3865703__480.jpg
+image: /img/2023/01/main-battle-tank-3865703__480.jpg
 ---
 まさに世界規模の支援ですね
 

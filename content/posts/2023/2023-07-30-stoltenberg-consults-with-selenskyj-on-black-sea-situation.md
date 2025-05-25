@@ -20,7 +20,7 @@ tags:
 - NATO
 - ウクライナ
 - ロシア
-image: img/2023/07/black-sea-11057_1280.jpg
+image: /img/2023/07/black-sea-11057_1280.jpg
 ---
 NATOの事務総長がコメントする意図は何か？  
 というのが、ひっかかっていました。

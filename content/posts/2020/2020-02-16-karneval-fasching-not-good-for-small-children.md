@@ -17,7 +17,7 @@ categories:
 tags:
 - カーニバル
 - ファッシング
-image: img/2020/02/Karneval-Fasching.jpg
+image: /img/2020/02/Karneval-Fasching.jpg
 ---
 <読者登録してください！>  
 メールマガジンの配信を独自配信に切り替えます。  

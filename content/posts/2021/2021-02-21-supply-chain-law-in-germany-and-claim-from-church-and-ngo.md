@@ -18,7 +18,7 @@ categories:
 tags:
 - 児童労働
 - 環境
-image: img/2021/02/child-labor-2304178__480.jpg
+image: /img/2021/02/child-labor-2304178__480.jpg
 ---
 サプライチェーンと教会の接点が  
 分かりませんでした

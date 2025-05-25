@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - 物価
-image: img/2025/04/price-index-march-2025.jpg
+image: /img/2025/04/price-index-march-2025.jpg
 ---
 ## コメントなど 
 

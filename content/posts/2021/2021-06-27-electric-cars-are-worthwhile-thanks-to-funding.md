@@ -19,7 +19,7 @@ categories:
 tags:
 - 環境
 - 電気自動車
-image: img/2021/06/E-mobilitaet_concept-car-737337__480.png
+image: /img/2021/06/E-mobilitaet_concept-car-737337__480.png
 ---
 電気自動車の販売は  
 思ったほどは伸びていない

@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2021/05/coronavirus-4833754__480.jpg
+image: /img/2021/05/coronavirus-4833754__480.jpg
 ---
 ## コメントなど
 ドイツでは、コロナ変異株JN.1の症例による入院が増加した。

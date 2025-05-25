@@ -20,7 +20,7 @@ categories:
 tags:
 - ファッション
 - 中国
-image: img/2023/08/girl-1333640_1280.jpg
+image: /img/2023/08/girl-1333640_1280.jpg
 ---
 まだ最近の話ですが  
 最初に<span class="fz-22px"><span class="bold">Shein</span></span>という文字を見たときに

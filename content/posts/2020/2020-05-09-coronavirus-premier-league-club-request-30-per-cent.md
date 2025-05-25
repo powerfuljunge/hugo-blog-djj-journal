@@ -18,7 +18,7 @@ categories:
 tags:
 - サッカー
 - 新型コロナウイルス
-image: img/2020/05/football-4928264__340.png
+image: /img/2020/05/football-4928264__340.png
 ---
 元ブンデスリーガのHertha Berlinで  
 プレーしていたヴァレンティーノ・ラザーロ。  

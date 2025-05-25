@@ -19,7 +19,7 @@ tags:
 - メルケル首相
 - 政治家
 - 総選挙
-image: img/2021/10/holocaust-auschwitz-i-3671389__480-2.jpg
+image: /img/2021/10/holocaust-auschwitz-i-3671389__480-2.jpg
 ---
 ## メルケル首相のイスラエル訪問
 

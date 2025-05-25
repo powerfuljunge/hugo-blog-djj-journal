@@ -17,7 +17,7 @@ categories:
 tags:
 - 宗教
 - 新型肺炎
-image: img/2020/04/stay-home-5010475__480.jpg
+image: /img/2020/04/stay-home-5010475__480.jpg
 ---
 宗教のあり方が  
 ガラッと変わるかもしれません。

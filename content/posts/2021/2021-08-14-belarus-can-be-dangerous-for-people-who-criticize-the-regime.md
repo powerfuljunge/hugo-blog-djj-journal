@@ -19,7 +19,7 @@ tags:
 - オリンピック
 - ベラルーシ
 - 政治
-image: img/2021/08/belarus-minsk-4420393__480.jpg
+image: /img/2021/08/belarus-minsk-4420393__480.jpg
 ---
 独裁国家のベラルーシ
 

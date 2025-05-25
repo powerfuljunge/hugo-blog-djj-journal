@@ -18,7 +18,7 @@ tags:
 - TV番組
 - 品種
 - 食材
-image: img/2021/10/pumpkin-3360793__480.jpg
+image: /img/2021/10/pumpkin-3360793__480.jpg
 ---
 記事本文のリンク↓↓↓  
 <http://enchan.net/xl/R7ERsf>  

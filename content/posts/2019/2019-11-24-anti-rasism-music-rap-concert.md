@@ -24,7 +24,7 @@ tags:
 - 心の時代
 - 愛国心
 - 芸術
-image: img/2019/11/kollegah.jpg
+image: /img/2019/11/kollegah.jpg
 ---
 ラッパー、Kollegahのミュンヘンでの  
 コンサートは12月14日の予定です。  

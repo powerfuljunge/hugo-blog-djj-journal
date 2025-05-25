@@ -19,7 +19,7 @@ categories:
 tags:
 - 気候変動
 - 環境
-image: img/2022/11/climate_hands-4091879__480.jpg
+image: /img/2022/11/climate_hands-4091879__480.jpg
 ---
 COP27ですね
 

@@ -19,7 +19,7 @@ categories:
 - 生活
 tags:
 - 難民問題
-image: img/2023/10/refugee_shinkiari-81770_1280.jpg
+image: /img/2023/10/refugee_shinkiari-81770_1280.jpg
 ---
 ## コメントなど
 難民受け入れは  

@@ -17,7 +17,7 @@ categories:
 tags:
 - ワクチン
 - 新型コロナウイルス
-image: img/2020/12/coronavirus-4946722__480.jpg
+image: /img/2020/12/coronavirus-4946722__480.jpg
 ---
 なぜショイブレさんの考え方が出てきたのか  
 は分かりませんが

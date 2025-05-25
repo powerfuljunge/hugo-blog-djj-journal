@@ -17,7 +17,7 @@ categories:
 tags:
 - ロボット
 - 保険
-image: img/2020/08/maehroboter-lawn-mower-2914172__480.jpg
+image: /img/2020/08/maehroboter-lawn-mower-2914172__480.jpg
 ---
 ドイツではいろいろな義務があります。
 

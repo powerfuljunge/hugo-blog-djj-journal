@@ -18,7 +18,7 @@ categories:
 tags:
 - 戦争
 - 農民戦争
-image: img/2025/03/German_Peasants_War_Illustration.jpg
+image: /img/2025/03/German_Peasants_War_Illustration.jpg
 ---
 ## コメントなど 
 

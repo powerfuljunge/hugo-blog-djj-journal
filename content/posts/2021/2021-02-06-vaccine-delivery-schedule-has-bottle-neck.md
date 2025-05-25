@@ -18,7 +18,7 @@ categories:
 tags:
 - ワクチン
 - 新型コロナウイルス
-image: img/2021/02/covid19-vaccine-5926664__480.png
+image: /img/2021/02/covid19-vaccine-5926664__480.png
 ---
 ボトルネックって何だろうと思いました
 

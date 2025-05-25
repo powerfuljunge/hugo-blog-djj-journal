@@ -21,7 +21,7 @@ tags:
 - 人種差別
 - 東西ドイツ再統一
 - 難民問題
-image: img/2020/10/ampelmann_traffic-lights-1053718__480.jpg
+image: /img/2020/10/ampelmann_traffic-lights-1053718__480.jpg
 ---
 1990年の東西ドイツ再統一の後に生まれた  
 人たちなので、歴史的瞬間を実体験して  

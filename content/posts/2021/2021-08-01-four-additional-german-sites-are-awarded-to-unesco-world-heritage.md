@@ -18,7 +18,7 @@ categories:
 tags:
 - ユネスコ世界遺産
 - 温泉保養地
-image: img/2021/08/karlovy-vary-2830742__480.jpg
+image: /img/2021/08/karlovy-vary-2830742__480.jpg
 ---
 ユネスコ世界文化遺産に認定されると  
 一気に知名度が上がりますね

@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 公共放送
-image: img/2024/06/german-broadcasting-reform.jpg
+image: /img/2024/06/german-broadcasting-reform.jpg
 ---
 ## コメントなど
 先回、ＡｆＤの党首が放送料の廃止を訴えていた  

@@ -18,7 +18,7 @@ categories:
 tags:
 - 新型コロナウイルス
 - 警察
-image: img/2020/11/protest-5591889_1280.jpg
+image: /img/2020/11/protest-5591889_1280.jpg
 ---
 デモの内容となっている  
 政府のコロナ禍対策に関しては  

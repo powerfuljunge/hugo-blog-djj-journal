@@ -19,7 +19,7 @@ categories:
 tags:
 - 信号機連立
 - 政治
-image: img/2024/11/FDP-party-members-saying-goodbye-to-SPD-and-Green-party-partners-in-Germany.jpg
+image: /img/2024/11/FDP-party-members-saying-goodbye-to-SPD-and-Green-party-partners-in-Germany.jpg
 ---
 ## コメントなど 
 

@@ -20,7 +20,7 @@ categories:
 tags:
 - EU
 - エネルギー危機
-image: img/2023/02/lithium-4300481__480.png
+image: /img/2023/02/lithium-4300481__480.png
 ---
 サイトを訪問していただくと  
 ↓↓↓  

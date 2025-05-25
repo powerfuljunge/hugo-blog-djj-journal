@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - オーガニック野菜
-image: img/2021/01/vegetables-1085063__480.jpg
+image: /img/2021/01/vegetables-1085063__480.jpg
 ---
 見慣れない単語があったので  
 まずはそれを調べました。

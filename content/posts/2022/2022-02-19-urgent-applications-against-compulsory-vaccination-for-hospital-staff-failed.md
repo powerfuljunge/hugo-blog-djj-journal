@@ -9,7 +9,7 @@ categories:
 tags:
 - コロナウイルス
 - コロナワクチン接種
-image: img/2022/02/img_4342.jpg
+image: /img/2022/02/img_4342.jpg
 ---
 基本法裁判所で検討しているけど  
 法律判断では前例となる  

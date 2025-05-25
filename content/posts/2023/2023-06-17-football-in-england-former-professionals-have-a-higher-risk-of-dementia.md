@@ -19,7 +19,7 @@ categories:
 tags:
 - アルツハイマー
 - サッカー選手
-image: img/2023/06/soccer-ball-1285164_1280.png
+image: /img/2023/06/soccer-ball-1285164_1280.png
 ---
 ヘディングと認知症リスク上昇の関連性が  
 疑われています。

@@ -21,7 +21,7 @@ tags:
 - エコ
 - 気候変動
 - 環境
-image: img/2020/11/ecologie_wind-5324144__480.jpg
+image: /img/2020/11/ecologie_wind-5324144__480.jpg
 ---
 パリ協定に絡む調査内容報告の概略は  
 以下の4つの項目のようです。

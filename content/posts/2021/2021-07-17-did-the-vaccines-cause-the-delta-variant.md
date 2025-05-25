@@ -17,7 +17,7 @@ categories:
 tags:
 - 新型コロナウイルス
 - 新型コロナウイルス変異株
-image: img/2021/07/covid19_delta-6381387__480.jpg
+image: /img/2021/07/covid19_delta-6381387__480.jpg
 ---
 あるある的な人間の心理と  
 まだ正確には解明されていない事から

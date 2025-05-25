@@ -18,7 +18,7 @@ tags:
 - ドイツ政治
 - ドイツ議会
 - 総選挙
-image: img/2021/10/bundestagswahl-2680395__480.jpg
+image: /img/2021/10/bundestagswahl-2680395__480.jpg
 ---
 先のドイツ連邦議会選挙の開票結果を  
 興味深く見ていました

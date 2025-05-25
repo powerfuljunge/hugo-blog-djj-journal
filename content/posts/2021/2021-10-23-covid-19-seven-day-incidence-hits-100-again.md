@@ -19,7 +19,7 @@ tags:
 - スーパーマーケット
 - 環境保護
 - 環境政策
-image: img/2021/10/bottles-3302316__480.jpg
+image: /img/2021/10/bottles-3302316__480.jpg
 ---
 Pfandの話でした  
   

@@ -16,7 +16,7 @@ categories:
 - 交渉術
 tags:
 - 電気自動車
-image: img/2021/06/lamborghini-huracan-3080405__480-1.jpg
+image: /img/2021/06/lamborghini-huracan-3080405__480-1.jpg
 ---
 スイスのＱｕａｎｔｕｍが  
 ＶＷグループのＡｕｄｉ傘下にある  

@@ -9,7 +9,7 @@ categories:
 tags:
 - 衣食住
 - 補助金
-image: img/2023/01/img_7332.jpg
+image: /img/2023/01/img_7332.jpg
 ---
 自分の家を持つのも  
 容易でなくなってきてるか

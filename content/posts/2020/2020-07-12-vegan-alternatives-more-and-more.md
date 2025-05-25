@@ -19,7 +19,7 @@ tags:
 - ヴィーガン
 - 細胞培養
 - 細胞農業
-image: img/2020/07/vegan_lebensmittel_eat-3236971__480.jpg
+image: /img/2020/07/vegan_lebensmittel_eat-3236971__480.jpg
 ---
 これは、文章で説明するより、  
 写真を見てもらった方がいいので、

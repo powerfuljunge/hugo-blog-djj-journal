@@ -18,7 +18,7 @@ tags:
 - LCC
 - Lufthansa
 - テロ攻撃
-image: img/2021/09/security-ncorrect-answer-4041502__480.jpg
+image: /img/2021/09/security-ncorrect-answer-4041502__480.jpg
 ---
 ９／１１以降変わった航空業界  
 何が変わったのかをまとめたのですね  

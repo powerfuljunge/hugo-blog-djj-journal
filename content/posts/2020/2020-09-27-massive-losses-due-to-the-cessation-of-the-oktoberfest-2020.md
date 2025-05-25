@@ -17,7 +17,7 @@ categories:
 tags:
 - ミュンヘン
 - 新型コロナウイルス
-image: img/2020/09/celebration-1296396__340.jpg
+image: /img/2020/09/celebration-1296396__340.jpg
 ---
 バイエルン訛りがいくつか出てきます。
 

@@ -19,7 +19,7 @@ categories:
 - 生活
 tags:
 - ウクライナ
-image: img/2024/03/ukraine-protest-7037332_1280.jpg
+image: /img/2024/03/ukraine-protest-7037332_1280.jpg
 ---
 ## コメントなど
 ロシアのウクライナ侵攻から丸２年が経ちました。  

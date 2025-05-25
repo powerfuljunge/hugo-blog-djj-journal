@@ -20,7 +20,7 @@ categories:
 tags:
 - 予算
 - 鉄道
-image: img/2024/03/railway-under-construction.jpg
+image: /img/2024/03/railway-under-construction.jpg
 ---
 ## コメントなど
 <span class="fz-20px"><span class="bold-red">連邦政府の予算に対し、日本の最高裁に当たる<br />連邦憲法裁判所が違憲判断をした</span></span>ことから

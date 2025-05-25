@@ -19,7 +19,7 @@ categories:
 tags:
 - 冬時間
 - 夏時間
-image: img/2024/11/summer-time-winter-time.jpeg
+image: /img/2024/11/summer-time-winter-time.jpeg
 ---
 ## コメントなど 
 

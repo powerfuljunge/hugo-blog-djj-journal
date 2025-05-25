@@ -17,7 +17,7 @@ categories:
 - 政治
 tags:
 - 移民政策
-image: img/2025/04/union-and-spd-then-green.jpg
+image: /img/2025/04/union-and-spd-then-green.jpg
 ---
 ## コメントなど 
 

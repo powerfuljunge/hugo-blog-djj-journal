@@ -17,7 +17,7 @@ categories:
 - ドイツ時事ジャーナル
 - 政治
 - 歴史
-image: img/2023/09/jerusalem-573956_1280.jpg
+image: /img/2023/09/jerusalem-573956_1280.jpg
 ---
 自由な有権者と訳してしまいましたが  
 本来は、Freie Wählerという政党名なので固有名詞です。

@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 環境保護
-image: img/2021/12/christmas-tree-1856343__480.jpg
+image: /img/2021/12/christmas-tree-1856343__480.jpg
 ---
 環境に優しいクリスマスツリーの  
 スペシャリスト  

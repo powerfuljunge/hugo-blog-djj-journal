@@ -18,7 +18,7 @@ categories:
 - 政治
 tags:
 - 移民
-image: img/2022/07/img_5972.jpg
+image: /img/2022/07/img_5972.jpg
 ---
 ドイツは積極的に移民を受け入れている  
 国の一つです

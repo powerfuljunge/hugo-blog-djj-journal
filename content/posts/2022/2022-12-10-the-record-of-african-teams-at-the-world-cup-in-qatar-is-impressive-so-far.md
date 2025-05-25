@@ -19,7 +19,7 @@ categories:
 tags:
 - サッカー
 - ワールドカップ
-image: img/2022/12/football-3475163__480.jpg
+image: /img/2022/12/football-3475163__480.jpg
 ---
 日本がベスト16で敗退したのは  
 とても残念でした

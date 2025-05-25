@@ -20,7 +20,7 @@ categories:
 tags:
 - ミニジョブ
 - 児童手当
-image: img/2023/08/money-2518389_1280.jpg
+image: /img/2023/08/money-2518389_1280.jpg
 ---
 ミニジョブに関する参考情報があります。
 

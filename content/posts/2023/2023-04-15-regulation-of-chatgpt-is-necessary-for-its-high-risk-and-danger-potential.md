@@ -19,7 +19,7 @@ categories:
 tags:
 - AI
 - ChatGPT
-image: img/2023/04/ai-generated-7718658__480.jpg
+image: /img/2023/04/ai-generated-7718658__480.jpg
 ---
 この、話題になり具合は  
 ChatGPTの潜在力の凄さの現れですね。

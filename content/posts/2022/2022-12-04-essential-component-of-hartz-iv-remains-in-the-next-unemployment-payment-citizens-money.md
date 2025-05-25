@@ -19,7 +19,7 @@ categories:
 - 生活
 tags:
 - 失業手当
-image: img/2022/12/financial-crisis-593767__480.jpg
+image: /img/2022/12/financial-crisis-593767__480.jpg
 ---
 フリードリッヒ・メルツさんは  
 連邦議会議員で、連邦議会CDU/CSUグループの  

@@ -17,7 +17,7 @@ categories:
 - 政治
 tags:
 - 赤字国債
-image: img/2025/03/German_political_meeting.jpg
+image: /img/2025/03/German_political_meeting.jpg
 ---
 ## コメントなど 
 

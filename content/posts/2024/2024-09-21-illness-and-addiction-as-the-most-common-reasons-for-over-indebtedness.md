@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 貧困化
-image: img/2024/09/addiction-common-reasons-for-over-indebtedness.jpg
+image: /img/2024/09/addiction-common-reasons-for-over-indebtedness.jpg
 ---
 ## コメントなど 
 

@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 公的年金
-image: img/2023/07/financial-equalization-1015310_1280-1.png
+image: /img/2023/07/financial-equalization-1015310_1280-1.png
 ---
 ７月１日から年金額が増えました。
 

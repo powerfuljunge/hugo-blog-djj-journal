@@ -17,7 +17,7 @@ categories:
 - 政治
 tags:
 - 軍備拡大
-image: img/2025/05/merz_military_expansion.webp
+image: /img/2025/05/merz_military_expansion.webp
 ---
 ## コメントなど
 軍の増強とは、ここでは人数が話題になっています。

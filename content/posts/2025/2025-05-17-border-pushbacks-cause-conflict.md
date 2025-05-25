@@ -19,7 +19,7 @@ tags:
 - AfD
 - 政治
 - 移民政策
-image: img/2025/05/police-at-the-border.jpg
+image: /img/2025/05/police-at-the-border.jpg
 ---
 ## コメントなど 
 

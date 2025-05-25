@@ -19,7 +19,7 @@ categories:
 tags:
 - 気候変動
 - 環境
-image: img/2023/04/flood-989084__480.jpg
+image: /img/2023/04/flood-989084__480.jpg
 ---
 まず、何はともあれ
 

@@ -21,7 +21,7 @@ tags:
 - ウクライナ
 - 医療制度
 - 新型コロナウイルス
-image: img/2024/03/hospital-operation-1807543_1280.jpg
+image: /img/2024/03/hospital-operation-1807543_1280.jpg
 ---
 ## コメントなど
 日本でも、コロナでの対応ではかなりの混乱がありました。

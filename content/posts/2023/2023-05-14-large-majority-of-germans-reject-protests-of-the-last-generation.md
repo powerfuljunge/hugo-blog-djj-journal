@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 環境
-image: img/2023/05/protest_20230514195624.jpg
+image: /img/2023/05/protest_20230514195624.jpg
 ---
 調査結果には安心しました。
 

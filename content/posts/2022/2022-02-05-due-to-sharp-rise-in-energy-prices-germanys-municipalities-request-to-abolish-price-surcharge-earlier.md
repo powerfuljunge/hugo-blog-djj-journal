@@ -7,7 +7,7 @@ categories:
 - ドイツ時事ジャーナル
 - 政治
 - 生活
-image: img/2022/02/img_4170.jpg
+image: /img/2022/02/img_4170.jpg
 ---
 EEG-Umlageって何？
 

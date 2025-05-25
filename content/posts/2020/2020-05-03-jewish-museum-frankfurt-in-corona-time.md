@@ -18,7 +18,7 @@ categories:
 tags:
 - 博物館
 - 新型コロナウイルス
-image: img/2020/05/museum2895c66dda65c5f587f035fd150bb8b0.jpg
+image: /img/2020/05/museum2895c66dda65c5f587f035fd150bb8b0.jpg
 ---
 歴史は繰り返す。
 

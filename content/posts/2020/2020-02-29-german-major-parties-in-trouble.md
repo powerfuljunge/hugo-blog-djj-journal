@@ -18,7 +18,7 @@ tags:
 - AfD
 - メルケル
 - 政治
-image: img/2020/02/cdu_thueringen_landtagswahl2019.jpg
+image: /img/2020/02/cdu_thueringen_landtagswahl2019.jpg
 ---
 連邦CDUのポリシーと  
 明らかに違うチューリンゲン州CDUの決定。

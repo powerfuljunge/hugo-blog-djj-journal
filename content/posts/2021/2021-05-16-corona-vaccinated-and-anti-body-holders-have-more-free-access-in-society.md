@@ -17,7 +17,7 @@ categories:
 tags:
 - コロナワクチン接種
 - 新型コロナウイルス
-image: img/2021/05/coronavirus-4833754__480.jpg
+image: /img/2021/05/coronavirus-4833754__480.jpg
 ---
 geimpft または genesenの人たちに  
 恩恵を与えるということですが

@@ -19,7 +19,7 @@ tags:
 - AfD
 - ドイツ議会
 - 政治
-image: img/2019/11/plenarsaal.jpg
+image: /img/2019/11/plenarsaal.jpg
 ---
 ラウターバッハさんは、SPD議員で医者です。  
 連邦議員歴15年。  

@@ -19,7 +19,7 @@ categories:
 tags:
 - 中国
 - 新型コロナウイルス
-image: img/2023/01/boarder_flagman-190063__480.jpg
+image: /img/2023/01/boarder_flagman-190063__480.jpg
 ---
 中国政府は、日本と韓国に対してビザの一時発給停止措置を取りましたね
 

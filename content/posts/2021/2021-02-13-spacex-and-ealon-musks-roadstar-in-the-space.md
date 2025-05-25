@@ -17,7 +17,7 @@ categories:
 tags:
 - テスラ
 - 気候変動
-image: img/2021/02/spacex-concept-4455126__480.jpg
+image: /img/2021/02/spacex-concept-4455126__480.jpg
 ---
 イーロン・マスクの名前は知っていたけど  
 テスラ以外に何をしているのかは  

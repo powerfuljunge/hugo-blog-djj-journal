@@ -20,7 +20,7 @@ categories:
 tags:
 - IGメタル
 - 賃上げ
-image: img/2024/11/1b06756d88c6b38ab9e10f2a1b3f6dc2.jpg
+image: /img/2024/11/1b06756d88c6b38ab9e10f2a1b3f6dc2.jpg
 ---
 ## コメントなど 
 

@@ -19,7 +19,7 @@ categories:
 tags:
 - 欧州議会
 - 選挙
-image: img/2024/06/eu-parliament.jpg
+image: /img/2024/06/eu-parliament.jpg
 ---
 ## コメントなど
 欧州議会の議員定員は７２０人。  

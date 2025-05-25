@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 賃金格差
-image: img/2022/10/hands-462298__480.jpg
+image: /img/2022/10/hands-462298__480.jpg
 ---
 記事の掲載が１０月１日で  
 ドイツ統一記念日だったんですね

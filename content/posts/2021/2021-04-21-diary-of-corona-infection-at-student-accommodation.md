@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2021/04/quarantine-5049107__480.jpg
+image: /img/2021/04/quarantine-5049107__480.jpg
 ---
 コロナ感染の記録が  
 割と身近な日記のように綴られている

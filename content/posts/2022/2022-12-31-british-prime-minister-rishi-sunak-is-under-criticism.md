@@ -18,7 +18,7 @@ categories:
 - 政治
 tags:
 - 英国
-image: img/2022/12/homeless-man-937665__480.jpg
+image: /img/2022/12/homeless-man-937665__480.jpg
 ---
 ホームレスに  
 「仕事してますか？」って聞くか？？？  

@@ -18,7 +18,7 @@ categories:
 tags:
 - AfD
 - 政治
-image: img/2025/05/AfD-and-police-people.jpg
+image: /img/2025/05/AfD-and-police-people.jpg
 ---
 ## コメントなど 
 

@@ -18,7 +18,7 @@ categories:
 tags:
 - AfD
 - ネオナチ
-image: img/2025/03/afd-and-neo-nazis-not-same.jpg
+image: /img/2025/03/afd-and-neo-nazis-not-same.jpg
 ---
 ## コメントなど 
 

@@ -19,7 +19,7 @@ tags:
 - AfD
 - 政治
 - 選挙
-image: img/2020/12/rundfunk-cinematographer-2808321__480.jpg
+image: /img/2020/12/rundfunk-cinematographer-2808321__480.jpg
 ---
 日本風に言えば
 

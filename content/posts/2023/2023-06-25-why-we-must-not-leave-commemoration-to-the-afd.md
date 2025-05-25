@@ -18,7 +18,7 @@ categories:
 - 政治
 tags:
 - AfD
-image: img/2023/06/revolution-3648329_1280.png
+image: /img/2023/06/revolution-3648329_1280.png
 ---
 1953年6月17日に  
 何が東ドイツで起きていたのか？

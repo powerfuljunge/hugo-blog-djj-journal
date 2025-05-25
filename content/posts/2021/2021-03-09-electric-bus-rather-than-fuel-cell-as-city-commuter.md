@@ -18,7 +18,7 @@ categories:
 tags:
 - 環境
 - 電気自動車
-image: img/2021/03/ebus_istockphoto-1162934201-170667a.jpg
+image: /img/2021/03/ebus_istockphoto-1162934201-170667a.jpg
 ---
 ２０２０年はドイツでは電気自動車の年  
 だったといいます  

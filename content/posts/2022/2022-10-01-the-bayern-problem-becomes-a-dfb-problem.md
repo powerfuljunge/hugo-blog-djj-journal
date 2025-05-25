@@ -18,7 +18,7 @@ categories:
 - ドイツ時事ジャーナル
 tags:
 - サッカー
-image: img/2022/10/stadium-1750100__480.jpg
+image: /img/2022/10/stadium-1750100__480.jpg
 ---
 11月にカタールで開催されるワールドカップ
 

@@ -18,7 +18,7 @@ categories:
 tags:
 - EU
 - 欧州
-image: img/2020/01/turkey-erdogan.jpg
+image: /img/2020/01/turkey-erdogan.jpg
 ---
 トルコのエルドアン大統領の評価は、  
 極端に分かれるようです。

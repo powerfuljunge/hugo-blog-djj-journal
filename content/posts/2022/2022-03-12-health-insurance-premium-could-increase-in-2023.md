@@ -8,7 +8,7 @@ categories:
 - 生活
 tags:
 - 健康保険
-image: img/2022/03/img_4442.jpg
+image: /img/2022/03/img_4442.jpg
 ---
 健康保険料増額の前振りですね
 

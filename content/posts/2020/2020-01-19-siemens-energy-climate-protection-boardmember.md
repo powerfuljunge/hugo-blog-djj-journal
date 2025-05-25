@@ -19,7 +19,7 @@ tags:
 - エコ
 - 気候変動
 - 環境
-image: img/2020/01/scientist-for-future_00.jpg
+image: /img/2020/01/scientist-for-future_00.jpg
 ---
 Siemens Energyのポストです。
 

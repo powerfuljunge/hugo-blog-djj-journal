@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - オクトーバーフェスト
-image: img/2024/09/oktoberfest-festzelt.jpg
+image: /img/2024/09/oktoberfest-festzelt.jpg
 ---
 ◇コメントなど  
 O&#8217;zapft is!は、決まり文句で  

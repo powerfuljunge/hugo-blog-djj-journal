@@ -18,7 +18,7 @@ categories:
 tags:
 - ルフトハンザ
 - 新型コロナウイルス
-image: img/2020/06/lufthansa-model-planes-1566822__480.jpg
+image: /img/2020/06/lufthansa-model-planes-1566822__480.jpg
 ---
 この記事を選んだ時は何も考えなかった  
 のですが、

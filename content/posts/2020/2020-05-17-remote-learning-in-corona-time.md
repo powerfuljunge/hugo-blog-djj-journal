@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - テレワーク
-image: img/2020/05/remote-learning.jpg
+image: /img/2020/05/remote-learning.jpg
 ---
 新型コロナウイルスの影響で、  
 テレビ会議を含む、  

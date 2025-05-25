@@ -19,7 +19,7 @@ categories:
 tags:
 - 人種差別
 - 極右
-image: img/2024/06/party-noizy.jpg
+image: /img/2024/06/party-noizy.jpg
 ---
 ## コメントなど
 <span class="fz-22px"><span class="bold-red"><span class="marker-under">いつの日からか、極右勢力の中で<br />ジジ・ダゴスティーノのヒットメロディーが<br />替え歌として使われていたようです。</span></span></span>

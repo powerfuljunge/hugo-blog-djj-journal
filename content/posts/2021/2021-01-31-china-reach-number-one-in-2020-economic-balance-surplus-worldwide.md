@@ -17,7 +17,7 @@ categories:
 tags:
 - 新型コロナウイルス
 - 経常収支
-image: img/2021/01/export-banner-1157109__480.jpg
+image: /img/2021/01/export-banner-1157109__480.jpg
 ---
 2020年はコロナの影響が大きいですね。  
 経常収支はドイツが

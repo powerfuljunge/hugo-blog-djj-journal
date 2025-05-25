@@ -19,7 +19,7 @@ categories:
 tags:
 - ロシア
 - 戦争
-image: img/2023/07/soldier-4771918_1280.jpg
+image: /img/2023/07/soldier-4771918_1280.jpg
 ---
 ワグネルの乱。  
 その背後にあるものは何か？  

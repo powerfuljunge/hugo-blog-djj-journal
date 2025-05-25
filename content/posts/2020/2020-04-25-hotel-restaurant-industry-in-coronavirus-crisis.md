@@ -17,7 +17,7 @@ categories:
 - 産業
 tags:
 - 新型コロナ
-image: img/2020/04/Gastronomie-Corona-4b2d5986d25511aec869ded2c613037d.jpg
+image: /img/2020/04/Gastronomie-Corona-4b2d5986d25511aec869ded2c613037d.jpg
 ---
 新型コロナ肺炎のニュースばかりです。
 

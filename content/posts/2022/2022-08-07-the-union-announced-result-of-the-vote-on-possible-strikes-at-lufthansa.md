@@ -10,7 +10,7 @@ tags:
 - Lufthansa
 - ストライキ
 - 労働組合
-image: img/2022/08/img_6292.png
+image: /img/2022/08/img_6292.png
 ---
 日本だと春闘っていうくらいだから  
 賃上げ交渉は春の行事ですが

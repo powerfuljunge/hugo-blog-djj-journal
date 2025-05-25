@@ -18,7 +18,7 @@ categories:
 tags:
 - 技術的課題
 - 電気自動車
-image: img/2021/07/ford-mustang-2339698__480.jpg
+image: /img/2021/07/ford-mustang-2339698__480.jpg
 ---
 ノルウェイの静かな村とは  
 僅か人口３００人のＧｅｉｒａｎｇｅｒ

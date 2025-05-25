@@ -20,7 +20,7 @@ tags:
 - カーニバル
 - ファッシング
 - 難民
-image: img/2025/02/German_carnival_parade.jpg
+image: /img/2025/02/German_carnival_parade.jpg
 ---
 ## コメントなど 
 

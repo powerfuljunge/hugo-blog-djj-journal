@@ -17,7 +17,7 @@ categories:
 tags:
 - 政治
 - 選挙
-image: img/2021/04/bundestag-2463236__480.jpg
+image: /img/2021/04/bundestag-2463236__480.jpg
 ---
 ９月２６日がドイツ連邦議会選挙
 

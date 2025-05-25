@@ -19,7 +19,7 @@ categories:
 tags:
 - ウクライナ
 - 復興支援
-image: img/2023/10/ai-generated-8023231_1280.jpg
+image: /img/2023/10/ai-generated-8023231_1280.jpg
 ---
 ## コメントなど
 今回の訪問で、フラスバルト次官は２日間現地に滞在し

@@ -20,7 +20,7 @@ tags:
 - イスラエル
 - イラン
 - 中東
-image: img/2024/04/israel-iran-on-the-sea.jpg
+image: /img/2024/04/israel-iran-on-the-sea.jpg
 ---
 ## コメントなど
 イランが船舶を拿捕するのは  

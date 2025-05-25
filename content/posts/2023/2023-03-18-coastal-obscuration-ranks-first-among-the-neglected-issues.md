@@ -19,7 +19,7 @@ categories:
 tags:
 - 気候変動
 - 環境
-image: img/2023/03/climate-change-7140601__480.jpg
+image: /img/2023/03/climate-change-7140601__480.jpg
 ---
 ほったらかしニュース  
 とでも言うのでしょうか？

@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2021/01/lockdown-5701231__480.png
+image: /img/2021/01/lockdown-5701231__480.png
 ---
 テストの結果は
 

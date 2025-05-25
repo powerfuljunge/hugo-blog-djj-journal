@@ -18,7 +18,7 @@ categories:
 tags:
 - 3Dプリンター
 - 電気自動車
-image: img/2020/08/3d-druck_industry-3225119__480.jpg
+image: /img/2020/08/3d-druck_industry-3225119__480.jpg
 ---
 従来の金属加工では作れない形状が  
 3Dプリントの方法では作れるのです。

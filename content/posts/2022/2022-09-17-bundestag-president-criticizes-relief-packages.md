@@ -20,7 +20,7 @@ categories:
 tags:
 - ウクライナ
 - エネルギー危機
-image: img/2022/09/energy-crisis-7455873__480.jpg
+image: /img/2022/09/energy-crisis-7455873__480.jpg
 ---
 エネルギー危機を念頭に置いた発言ですが
 

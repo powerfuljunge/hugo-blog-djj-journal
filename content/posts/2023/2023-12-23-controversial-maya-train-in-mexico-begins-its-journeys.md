@@ -20,7 +20,7 @@ categories:
 tags:
 - 気候変動
 - 環境
-image: img/2023/12/steam-train-314880_1280.jpg
+image: /img/2023/12/steam-train-314880_1280.jpg
 ---
 自然保護と生活環境の改善。  
 両立させるのが難しい面もありますね。

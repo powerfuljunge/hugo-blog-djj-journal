@@ -8,7 +8,7 @@ categories:
 - 生活
 tags:
 - 気候変動
-image: img/2022/08/img_6382.jpg
+image: /img/2022/08/img_6382.jpg
 ---
 蚊が生育する北限が上がってきてるんですね
 

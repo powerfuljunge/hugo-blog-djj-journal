@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - 朝食レシピ
-image: img/2020/09/porridge_oats-3272113__480.jpg
+image: /img/2020/09/porridge_oats-3272113__480.jpg
 ---
 健康な朝食の参考になればいいのですが。
 

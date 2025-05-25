@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2021/05/corona-vaccine-prohibited-6024557__480.jpg
+image: /img/2021/05/corona-vaccine-prohibited-6024557__480.jpg
 ---
 ワクチン投与が始まって  
 現在の様々な制限を緩和する動きが  

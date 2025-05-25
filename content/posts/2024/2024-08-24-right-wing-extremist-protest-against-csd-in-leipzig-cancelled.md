@@ -19,7 +19,7 @@ categories:
 tags:
 - AfD
 - 極右
-image: img/2024/08/police-against-demonstration.jpg
+image: /img/2024/08/police-against-demonstration.jpg
 ---
 ## コメントなど 
 

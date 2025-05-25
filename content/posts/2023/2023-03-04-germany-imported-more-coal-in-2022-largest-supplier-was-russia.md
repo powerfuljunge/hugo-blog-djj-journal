@@ -21,7 +21,7 @@ tags:
 - ロシア
 - 気候変動
 - 環境
-image: img/2023/03/energy-7436954__480.jpg
+image: /img/2023/03/energy-7436954__480.jpg
 ---
 **<span class="fz-20px"><span class="marker-under">自給率が高いのは有利</span></span>**だと思い知らされます。
 

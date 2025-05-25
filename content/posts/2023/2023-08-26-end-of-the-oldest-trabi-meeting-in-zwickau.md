@@ -21,7 +21,7 @@ tags:
 - トラバント
 - 旧東独
 - 自動車
-image: img/2023/08/trabant_satellite-2781165_1280.jpg
+image: /img/2023/08/trabant_satellite-2781165_1280.jpg
 ---
 <span class="fz-22px"><span class="bold-red"><span class="marker-under">トラバントって何？</span></span></span>という時は  
 ウィキペディアを参照してください。↓↓↓

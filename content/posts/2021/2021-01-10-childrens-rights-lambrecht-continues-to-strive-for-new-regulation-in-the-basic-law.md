@@ -17,7 +17,7 @@ categories:
 tags:
 - 子供の権利
 - 政治
-image: img/2021/01/kinder-brothers-457237__480.jpg
+image: /img/2021/01/kinder-brothers-457237__480.jpg
 ---
 子供は社会の中で最も弱い存在だとの  
 前提で提案がなされています。

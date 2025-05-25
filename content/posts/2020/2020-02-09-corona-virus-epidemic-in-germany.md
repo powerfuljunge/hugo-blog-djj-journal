@@ -18,7 +18,7 @@ tags:
 - 中国
 - 予防接種
 - 免疫
-image: img/2020/02/coronavirus.jpg
+image: /img/2020/02/coronavirus.jpg
 ---
 <！重要なお知らせ>  
 メールマガジンの配信を独自配信に切り替えます。  

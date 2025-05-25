@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2020/05/krankenpfleger-corona-mask-5035071_1280.jpg
+image: /img/2020/05/krankenpfleger-corona-mask-5035071_1280.jpg
 ---
 1500ユーロの出所は、  
 1000ユーロが介護保険、  

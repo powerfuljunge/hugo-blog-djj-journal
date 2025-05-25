@@ -17,7 +17,7 @@ categories:
 tags:
 - マッチングアプリ
 - 女性
-image: img/2021/08/tinder-home-page-5409106__480.jpg
+image: /img/2021/08/tinder-home-page-5409106__480.jpg
 ---
 Tinder(ティンダー)とかBumble(バンブル)は  
 日本でも活動してるんですね

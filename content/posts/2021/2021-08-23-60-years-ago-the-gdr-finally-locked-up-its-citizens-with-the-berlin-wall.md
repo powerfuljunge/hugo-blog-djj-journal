@@ -16,7 +16,7 @@ categories:
 - 歴史
 tags:
 - ベルリンの壁
-image: img/2021/08/berliner-mauer-bernauer-strae-113173__480.jpg
+image: /img/2021/08/berliner-mauer-bernauer-strae-113173__480.jpg
 ---
 ベルリンの壁を越えて東ドイツから  
 西へ逃げた人の数が気になりました

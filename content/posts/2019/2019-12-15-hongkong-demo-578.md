@@ -17,7 +17,7 @@ categories:
 tags:
 - 民主主義
 - 香港デモ
-image: img/2019/12/Clam_hongkong.jpg
+image: /img/2019/12/Clam_hongkong.jpg
 ---
 逃亡犯条例改正案に対する抗議行動として  
 始まった香港のデモも、  

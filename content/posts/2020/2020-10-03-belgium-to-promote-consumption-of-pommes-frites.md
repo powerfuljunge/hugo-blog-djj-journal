@@ -18,7 +18,7 @@ categories:
 tags:
 - 新型コロナウイルス
 - 食材
-image: img/2020/10/pommes-french-fries-250641__480.jpg
+image: /img/2020/10/pommes-french-fries-250641__480.jpg
 ---
 まず、ポメスですが  
 これはフレンチフライのことです。  

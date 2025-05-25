@@ -18,7 +18,7 @@ categories:
 tags:
 - 交通機関
 - 環境
-image: img/2025/03/congested_German-trafic-system-.jpg
+image: /img/2025/03/congested_German-trafic-system-.jpg
 ---
 ## コメントなど 
 

@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - オーロラ
-image: img/2024/05/aurora-dance.jpg
+image: /img/2024/05/aurora-dance.jpg
 ---
 ## コメントなど
 <span class="fz-20px"><span class="bold-red"><span class="marker-under">２０１９年１２月以降<br />太陽の活動が活発化している</span></span></span>とのこと。

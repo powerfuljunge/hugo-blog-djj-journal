@@ -19,7 +19,7 @@ tags:
 - デジタル化
 - ネット社会
 - 新型コロナウイルス
-image: img/2021/03/digital-explosion-5967493__480-1.jpg
+image: /img/2021/03/digital-explosion-5967493__480-1.jpg
 ---
 Zahlenfrauというのは執筆者のMiriam  
 Wohlfarthさんに付けられたニックネーム

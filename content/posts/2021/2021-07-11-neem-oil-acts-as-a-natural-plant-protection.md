@@ -17,7 +17,7 @@ categories:
 tags:
 - エコ
 - 環境
-image: img/2021/07/neem-turmeric-5289431__480.jpg
+image: /img/2021/07/neem-turmeric-5289431__480.jpg
 ---
 環境に優しいと言う事では  
 自然のものをそのまま使うのが  

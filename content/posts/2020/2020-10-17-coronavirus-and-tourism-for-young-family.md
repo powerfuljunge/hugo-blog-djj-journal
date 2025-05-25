@@ -18,7 +18,7 @@ tags:
 - ハイキング
 - 新型コロナウイルス
 - 自然とのふれあい
-image: img/2020/10/wandern_architecture-2602324__480.jpg
+image: /img/2020/10/wandern_architecture-2602324__480.jpg
 ---
 コロナ禍の中の旅行は  
 飛行機に乗って地中海の島に行くとかでは  

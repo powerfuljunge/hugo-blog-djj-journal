@@ -20,7 +20,7 @@ tags:
 - 環境
 - 生態系
 - 絶滅危惧種
-image: img/2022/09/rebhuhn_grey-partridge-4347387__340.jpg
+image: /img/2022/09/rebhuhn_grey-partridge-4347387__340.jpg
 ---
 生態系の記事を見て  
 新鮮な感じがしました

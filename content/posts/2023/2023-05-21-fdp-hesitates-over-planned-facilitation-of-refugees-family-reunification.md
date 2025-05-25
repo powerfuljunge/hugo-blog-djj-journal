@@ -20,7 +20,7 @@ categories:
 tags:
 - ウクライナ
 - 難民
-image: img/2023/05/binding-contract-948442_1280.jpg
+image: /img/2023/05/binding-contract-948442_1280.jpg
 ---
 赤・黃・緑のいわゆる信号連立
 

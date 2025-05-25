@@ -17,7 +17,7 @@ categories:
 tags:
 - 女性
 - 子供
-image: img/2019/12/frauenhaeuser.jpg
+image: /img/2019/12/frauenhaeuser.jpg
 ---
 家庭内暴力の被害者の大半は女性と  
 子供ですね。  

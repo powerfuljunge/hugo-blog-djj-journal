@@ -18,7 +18,7 @@ categories:
 tags:
 - 政治
 - 選挙
-image: img/2025/03/German_Bundestag_Coalition_Discussion.jpg
+image: /img/2025/03/German_Bundestag_Coalition_Discussion.jpg
 ---
 ## コメントなど 
 

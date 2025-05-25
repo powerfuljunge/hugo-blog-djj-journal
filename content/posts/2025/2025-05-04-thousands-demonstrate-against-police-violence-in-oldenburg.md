@@ -18,7 +18,7 @@ categories:
 tags:
 - 人種差別
 - 警察
-image: img/2025/05/Lorenz-demo-May-4-2025-12_47_47-AM.jpg
+image: /img/2025/05/Lorenz-demo-May-4-2025-12_47_47-AM.jpg
 ---
 ## コメントなど 
 

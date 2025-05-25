@@ -19,7 +19,7 @@ tags:
 - デジタル税
 - ネット社会
 - 米国
-image: img/2020/07/digital-steuer_turn-on-2932999__480.jpg
+image: /img/2020/07/digital-steuer_turn-on-2932999__480.jpg
 ---
 化粧品やハンドバッグに25％追加の関税  
 というのが内容です。

@@ -19,7 +19,7 @@ categories:
 - 生活
 tags:
 - 賃上げ
-image: img/2023/12/strike-crowd-4987227_1280.jpg
+image: /img/2023/12/strike-crowd-4987227_1280.jpg
 ---
 ## コメントなど
 ９月末に、労働合意が失効していたのですね。

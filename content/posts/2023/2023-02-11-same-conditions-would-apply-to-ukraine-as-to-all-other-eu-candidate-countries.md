@@ -19,7 +19,7 @@ categories:
 tags:
 - EU
 - ウクライナ
-image: img/2016/02/EU_01-246x181.jpg
+image: /img/2016/02/EU_01-246x181.jpg
 ---
 EUがうまく機能するのは容易ではない
 

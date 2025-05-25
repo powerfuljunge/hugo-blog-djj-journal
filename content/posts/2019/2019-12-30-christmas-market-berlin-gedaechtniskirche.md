@@ -18,7 +18,7 @@ tags:
 - テロ
 - 移民
 - 警察
-image: img/2019/12/berlin-gedaechtniskirche.jpg
+image: /img/2019/12/berlin-gedaechtniskirche.jpg
 ---
 こういう記事を見ると、  
 日本は平和だなと思うわけですが、

@@ -19,7 +19,7 @@ categories:
 tags:
 - 気候変動
 - 環境保護
-image: img/2022/01/atomausstieg_akw_abschaltung_karte-1-scaled.jpg
+image: /img/2022/01/atomausstieg_akw_abschaltung_karte-1-scaled.jpg
 ---
 ＦＵＫＵＳＨＩＭＡ（福島）が  
 有名になったんですね

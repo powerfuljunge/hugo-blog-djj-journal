@@ -19,7 +19,7 @@ tags:
 - 国際競争力
 - 衣食住
 - 連帯付加税
-image: img/2019/12/export-balance.jpg
+image: /img/2019/12/export-balance.jpg
 ---
 貿易黒字が多いのは、  
 良いことばかりではないのですね。  

@@ -22,7 +22,7 @@ tags:
 - 米国
 - 若年層
 - 若返り
-image: img/2020/01/verjuengung-des-Bundeskabinetts.jpg
+image: /img/2020/01/verjuengung-des-Bundeskabinetts.jpg
 ---
 若返りはテーマに上がりやすい話題です。  
   

@@ -19,7 +19,7 @@ categories:
 tags:
 - ウクライナ
 - 新型コロナウイルス
-image: img/2023/02/smartphone-7791023__340.jpg
+image: /img/2023/02/smartphone-7791023__340.jpg
 ---
 通称、五賢人委員会と呼ばれる  
 ドイツ政府経済諮問委員会諮問委員会です。

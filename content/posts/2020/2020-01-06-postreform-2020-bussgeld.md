@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - ドイツ
-image: img/2020/01/postreform.jpg
+image: /img/2020/01/postreform.jpg
 ---
 <div>
   日本での郵便遅配に関する

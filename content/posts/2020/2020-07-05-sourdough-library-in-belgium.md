@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - サワードウブレッド
-image: img/2020/07/sauerteig_desembrood-997529__480.jpg
+image: /img/2020/07/sauerteig_desembrood-997529__480.jpg
 ---
 サワードウという単語自体を、  
 今回訳すために調べて、知りました。

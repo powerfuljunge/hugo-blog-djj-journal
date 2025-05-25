@@ -18,7 +18,7 @@ categories:
 tags:
 - AfD
 - 難民
-image: img/2025/02/German_Bundestag_illustration.jpg
+image: /img/2025/02/German_Bundestag_illustration.jpg
 ---
 ## コメントなど 
 

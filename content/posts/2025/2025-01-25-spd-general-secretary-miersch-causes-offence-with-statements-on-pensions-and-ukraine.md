@@ -20,7 +20,7 @@ tags:
 - AfD
 - ウクライナ
 - 年金
-image: img/2025/01/Heated_Bundestag_Debate.jpg
+image: /img/2025/01/Heated_Bundestag_Debate.jpg
 ---
 ## ◇コメントなど 
 

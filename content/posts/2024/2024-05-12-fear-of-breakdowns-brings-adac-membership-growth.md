@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 電気自動車
-image: img/2024/05/adac-annual-meeting-e-mobility.jpg
+image: /img/2024/05/adac-annual-meeting-e-mobility.jpg
 ---
 ## コメントなど
 故障不安から会員数が増える、と書かれると  

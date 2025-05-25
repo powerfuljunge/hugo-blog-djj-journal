@@ -19,7 +19,7 @@ categories:
 - 産業
 tags:
 - 新型コロナウイルス
-image: img/2022/12/tablets-6392474__480.jpg
+image: /img/2022/12/tablets-6392474__480.jpg
 ---
 一体金持ち国家とはどこのこと？
 

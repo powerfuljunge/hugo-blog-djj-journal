@@ -17,7 +17,7 @@ categories:
 tags:
 - ダイアナ妃
 - 映画祭
-image: img/2021/09/venice-masks-1879572__480.jpg
+image: /img/2021/09/venice-masks-1879572__480.jpg
 ---
 調べていたら、アンデルセンの童話に  
 「エンドウ豆の上に寝たお姫様」  

@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - 恐竜の化石
-image: img/2020/10/jurassic-park_dinosaur-2778258__480.jpg
+image: /img/2020/10/jurassic-park_dinosaur-2778258__480.jpg
 ---
 私もシュトゥットガルト付近に住んで  
 いたことがあるのですが

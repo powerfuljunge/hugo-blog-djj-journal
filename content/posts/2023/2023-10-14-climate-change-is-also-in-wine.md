@@ -19,7 +19,7 @@ categories:
 tags:
 - ワイン
 - 気候変動
-image: img/2023/10/mosel-2776094_1280.jpg
+image: /img/2023/10/mosel-2776094_1280.jpg
 ---
 モーゼルワインの醸造者を  
 インタビューしたものです。

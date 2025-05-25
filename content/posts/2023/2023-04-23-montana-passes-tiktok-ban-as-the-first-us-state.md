@@ -19,7 +19,7 @@ categories:
 - 生活
 tags:
 - SNS
-image: img/2023/04/tiktok-5064078__340.jpg
+image: /img/2023/04/tiktok-5064078__340.jpg
 ---
 TikTokは、日本でも流行っているようです。
 

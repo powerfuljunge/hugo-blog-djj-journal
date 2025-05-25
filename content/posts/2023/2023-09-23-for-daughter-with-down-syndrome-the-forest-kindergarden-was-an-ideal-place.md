@@ -19,7 +19,7 @@ categories:
 tags:
 - ダウン症
 - 自然
-image: img/2023/09/downs-syndrome-7992384_1280.jpg
+image: /img/2023/09/downs-syndrome-7992384_1280.jpg
 ---
 ## コメントなど
 小学校二年生でダウン症の娘を持つ母親の文章です。

@@ -16,7 +16,7 @@ categories:
 - ドイツ時事ジャーナル
 tags:
 - オリンピック
-image: img/2020/04/olympic2020.jpg
+image: /img/2020/04/olympic2020.jpg
 ---
 この記事は、東京オリンピックの延長は  
 決めたものの、まだいつ開催かは決定して  

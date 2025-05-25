@@ -18,7 +18,7 @@ categories:
 tags:
 - 環境
 - 電気自動車
-image: img/2021/01/eauto-audi-2778707__480.jpg
+image: /img/2021/01/eauto-audi-2778707__480.jpg
 ---
 アウディ社長のデュスマンさんは  
 親会社であるＶＷの技術担当役員も  

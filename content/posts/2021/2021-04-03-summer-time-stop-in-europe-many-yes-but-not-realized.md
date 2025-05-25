@@ -18,7 +18,7 @@ categories:
 tags:
 - EU
 - サマータイム
-image: img/2021/04/summer-time-conversion-1372935__480.jpg
+image: /img/2021/04/summer-time-conversion-1372935__480.jpg
 ---
 なぜ夏時間を止めようとしているのでしょう
 

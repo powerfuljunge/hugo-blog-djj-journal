@@ -19,7 +19,7 @@ categories:
 tags:
 - 気候変動
 - 環境
-image: img/2024/11/cop29-discussion.jpg
+image: /img/2024/11/cop29-discussion.jpg
 ---
 ## コメントなど 
 

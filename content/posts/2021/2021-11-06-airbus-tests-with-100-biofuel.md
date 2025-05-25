@@ -20,7 +20,7 @@ tags:
 - エアバス
 - 温室ガス
 - 環境保護
-image: img/2021/11/biosprit_regenerative-reliquary-2744729__480.jpg
+image: /img/2021/11/biosprit_regenerative-reliquary-2744729__480.jpg
 ---
 ＳＡＦ（Sustainable Aviation Fuel）は  
 日本語では「代替航空燃料」と言うようです  

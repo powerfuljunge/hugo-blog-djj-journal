@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - 休暇
-image: img/2023/07/tirol-field-5561687_1280.jpg
+image: /img/2023/07/tirol-field-5561687_1280.jpg
 ---
 南チロル辺りは、特に夏の休暇を過ごす場所として、  
 いまだに人気があるのでしょう。

@@ -20,7 +20,7 @@ categories:
 tags:
 - 反ユダヤ主義
 - 強制収容所
-image: img/2023/11/star-of-david-6640513_1280.jpg
+image: /img/2023/11/star-of-david-6640513_1280.jpg
 ---
 ## コメントなど
 ドイツ強制収容所記念館側のスポークスマン  

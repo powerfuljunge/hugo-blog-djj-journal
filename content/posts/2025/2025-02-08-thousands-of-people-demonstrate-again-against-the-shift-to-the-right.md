@@ -20,7 +20,7 @@ categories:
 tags:
 - AfD
 - 国政選挙
-image: img/2025/02/demonstration-against-faschism.jpg
+image: /img/2025/02/demonstration-against-faschism.jpg
 ---
 ## コメントなど 
 

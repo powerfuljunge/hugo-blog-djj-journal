@@ -19,7 +19,7 @@ categories:
 tags:
 - 反ユダヤ主義
 - 気候変動
-image: img/2023/11/school-strike-4-climate-4057683_1280.jpg
+image: /img/2023/11/school-strike-4-climate-4057683_1280.jpg
 ---
 ## コメントなど
 Fridays for Futureは、気候変動対策を  

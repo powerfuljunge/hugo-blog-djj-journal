@@ -17,7 +17,7 @@ categories:
 - 生活
 tags:
 - コロナウイルス
-image: img/2020/03/Epidemia-b0d15203bd072e8f086bd363fc57b1ba.jpg
+image: /img/2020/03/Epidemia-b0d15203bd072e8f086bd363fc57b1ba.jpg
 ---
 コロナウイルスの影響では、  
 健康的な部分が最優先なのはもちろんですが、  

@@ -18,7 +18,7 @@ tags:
 - CO2
 - 環境保護
 - 菜食主義
-image: img/2021/09/vegan-tomatoes-1804452__480.jpg
+image: /img/2021/09/vegan-tomatoes-1804452__480.jpg
 ---
 最近はカーボンニュートラルという  
 単語を聞く事も増えてきています

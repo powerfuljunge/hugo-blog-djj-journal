@@ -19,7 +19,7 @@ categories:
 tags:
 - AfD
 - 政治家
-image: img/2024/01/wrestle-3724560_1280.jpg
+image: /img/2024/01/wrestle-3724560_1280.jpg
 ---
 ## コメントなど
 <span class="fz-22px"><span class="bold-red"><span class="marker-under">ＡｆＤ</span></span></span>はドイツの政党の名称で  

@@ -18,7 +18,7 @@ categories:
 - 政治
 tags:
 - SNS
-image: img/2025/01/Tweet-on-X_depicting_a_famous_American.jpg
+image: /img/2025/01/Tweet-on-X_depicting_a_famous_American.jpg
 ---
 ## コメントなど 
 

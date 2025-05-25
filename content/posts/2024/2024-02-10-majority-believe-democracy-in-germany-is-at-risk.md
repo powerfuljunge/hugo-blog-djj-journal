@@ -19,7 +19,7 @@ categories:
 tags:
 - AfD
 - 民主主義
-image: img/2023/08/AfD.jpg
+image: /img/2023/08/AfD.jpg
 ---
 ## コメントなど
 記事の元になっているのは

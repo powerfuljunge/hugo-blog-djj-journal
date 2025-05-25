@@ -21,7 +21,7 @@ tags:
 - スマホ
 - ネット社会
 - 米国
-image: img/2020/08/tiktok-5358337__480.png
+image: /img/2020/08/tiktok-5358337__480.png
 ---
 TikTokが大ブームになったことで  
 FacebookはLasso、そして  

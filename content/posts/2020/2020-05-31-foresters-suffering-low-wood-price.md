@@ -19,7 +19,7 @@ categories:
 - 産業
 tags:
 - 森林
-image: img/2020/05/depth-of-field-photography-of-brown-tree-logs-923167.jpg
+image: /img/2020/05/depth-of-field-photography-of-brown-tree-logs-923167.jpg
 ---
 切りたての木は  
 いま、1メートルあたり50ユーロ。  

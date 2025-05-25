@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - Lotto
-image: img/2025/01/Eurojackpot_Winner_Celebration.jpg
+image: /img/2025/01/Eurojackpot_Winner_Celebration.jpg
 ---
 ## コメントなど 
 

@@ -16,7 +16,7 @@ categories:
 - 生活
 tags:
 - 新型コロナウイルス
-image: img/2020/09/corona-protest-5184533__480.jpg
+image: /img/2020/09/corona-protest-5184533__480.jpg
 ---
 デモの参加者には、いろいろな思惑のある  
 異なるグループが複雑に混じっているという  

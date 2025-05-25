@@ -18,7 +18,7 @@ categories:
 tags:
 - エコ
 - 気候変動
-image: img/2020/03/rheinufer-01.jpg
+image: /img/2020/03/rheinufer-01.jpg
 ---
 自然と人間の共存を考える動きですね。
 

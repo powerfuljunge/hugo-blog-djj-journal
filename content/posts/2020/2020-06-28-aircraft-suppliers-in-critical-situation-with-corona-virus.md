@@ -17,7 +17,7 @@ categories:
 - 産業
 tags:
 - 新型コロナウイルス
-image: img/2020/06/turbine_background-2438799__480.jpg
+image: /img/2020/06/turbine_background-2438799__480.jpg
 ---
 ドイツの航空機部品産業が苦境に  
 立たされているのは、

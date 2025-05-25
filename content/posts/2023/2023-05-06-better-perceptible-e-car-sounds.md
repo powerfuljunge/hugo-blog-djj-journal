@@ -19,7 +19,7 @@ categories:
 - 生活
 tags:
 - 電気自動車
-image: img/2023/05/tinnitus-4804811__480.jpg
+image: /img/2023/05/tinnitus-4804811__480.jpg
 ---
 クルマも社会の一員だということを  
 考えさせられるテーマです。

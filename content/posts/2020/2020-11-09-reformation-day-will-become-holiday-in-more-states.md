@@ -17,7 +17,7 @@ categories:
 tags:
 - 宗教改革
 - 祝日
-image: img/2020/11/luther-1821759__480.jpg
+image: /img/2020/11/luther-1821759__480.jpg
 ---
 私の知識では  
 マルティン・ルターの宗教改革をお祝いする  

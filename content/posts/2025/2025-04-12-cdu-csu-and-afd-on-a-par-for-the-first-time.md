@@ -18,7 +18,7 @@ categories:
 tags:
 - AfD
 - 政治
-image: img/2025/04/cdu-and-afd-on-a-par.jpg
+image: /img/2025/04/cdu-and-afd-on-a-par.jpg
 ---
 ## コメントなど 
 

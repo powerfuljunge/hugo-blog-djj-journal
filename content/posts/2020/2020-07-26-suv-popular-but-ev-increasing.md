@@ -17,7 +17,7 @@ categories:
 tags:
 - SUV
 - 電気自動車
-image: img/2020/07/suv-range-rover-5260746__480.jpg
+image: /img/2020/07/suv-range-rover-5260746__480.jpg
 ---
 今年前半の新車登録のうち、SUVのシェアは  
 34.1％で、まだまだ人気があります。

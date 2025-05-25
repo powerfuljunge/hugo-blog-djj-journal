@@ -18,7 +18,7 @@ categories:
 - 生活
 tags:
 - サマータイム
-image: img/2024/04/summer-time-conversion-1372935__480.jpg
+image: /img/2024/04/summer-time-conversion-1372935__480.jpg
 ---
 ## コメントなど
 サマータイムは日本では導入されていません。  

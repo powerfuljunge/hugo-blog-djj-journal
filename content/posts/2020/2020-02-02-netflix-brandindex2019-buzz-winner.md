@@ -17,7 +17,7 @@ categories:
 tags:
 - ストリーミング
 - フォルクスワーゲン
-image: img/2020/02/brandindex2019netflix.jpg
+image: /img/2020/02/brandindex2019netflix.jpg
 ---
 <！重要なお知らせ>  
 メールマガジンの配信を独自配信に切り替えます。  
