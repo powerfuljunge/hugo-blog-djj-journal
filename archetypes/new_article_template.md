@@ -7,7 +7,7 @@ categories:
 tags:
   - タグ1
   - タグ2
-image: img/2025/05/sample.jpg
+image: /img/2025/05/sample.jpg
 ---
 
 ファイル名：YYYY-MM-DD-slug
