@@ -68,7 +68,7 @@ darkmode = "light"
     thumbnail_width = "lg:w-auto"
 
     # Number of characters in description
-    description = "130"
+    description = "75"
 
   [params.profile]
     name = "HARIBO先生"
