@@ -1,15 +1,17 @@
 <div class="blogcard">
-  <a href="{{ .Get "url" }}" target="_blank" rel="noopener">
-    <div class="blogcard-inner">
-      {{ with .Get "image" }}
-      <div class="blogcard-thumb">
-        <img src="{{ . }}" alt="card image" />
+    <a href="{{ .Get "url" }}" target="_blank" rel="noopener">
+      <div class="blogcard-container">
+        {{ with .Get "image" }}
+        <div class="blogcard-thumbnail">
+          <img src="{{ . }}" alt="thumbnail">
+        </div>
+        {{ end }}
+        <div class="blogcard-info">
+          <div class="blogcard-title">{{ .Get "title" }}</div>
+          <div class="blogcard-description">{{ .Get "description" }}</div>
+          <div class="blogcard-url">{{ .Get "url" }}</div>
+        </div>
       </div>
-      {{ end }}
-      <div class="blogcard-content">
-        <strong class="blogcard-title">{{ .Get "title" }}</strong>
-        <div class="blogcard-domain">{{ .Get "domain" }}</div>
-      </div>
-    </div>
-  </a>
-</div>
+    </a>
+  </div>
+  
