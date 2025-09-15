@@ -30,35 +30,6 @@
         <img class="py-4" src="{{ .Params.image | absURL }}">
         {{ end }}
 
-        {{/* ===== DEBUG + ToC 安全取得 ===== 
-        {{ $toc := .Page.TableOfContents }}
-        {{ warnf "post/single.html used • ToC len=%d • %s" (len $toc) .RelPermalink }}
-
-        <div class="p-2 text-xs bg-yellow-100 text-yellow-800">
-          DEBUG: post/single.html is used • ToC len={{ len $toc }}
-        </div>
-
-        {{ if gt (len $toc) 0 }}
-          <div class="toc-wrapper my-6 p-4 border rounded
-                      bg-gray-100 text-gray-800
-                      dark:bg-gray-800 dark:text-gray-100 dark:border-gray-700">
-
-            <h2 class="text-xl font-semibold mb-2">目次</h2>
-
-            <div id="toc-content"
-                class="mt-2 p-3 rounded border
-                        bg-white text-gray-800
-                        dark:bg-gray-900 dark:text-gray-100 dark:border-gray-700
-                        prose prose-sm dark:prose-invert">
-              {{ $toc | safeHTML }}
-            </div>
-          </div>
-        {{ else }}
-          <div class="p-2 text-xs bg-red-100 text-red-800">
-            DEBUG: ToC is empty (no headings matched startLevel〜endLevel)
-          </div>
-        {{ end }}　*/}}
-
         {{ if and (and (.Site.Params.ad.googleAdSense) (.Site.Params.ad.postTop)) (.Site.Params.ad.adslot) }}
         <ins class="adsbygoogle" style="display:block" data-ad-client="{{.Site.Params.ad.googleAdSense}}"
           data-ad-slot="{{.Site.Params.ad.adslot}}" data-ad-format="auto" data-full-width-responsive="true"></ins>
