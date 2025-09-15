@@ -9,6 +9,7 @@
       {{ end }}
       <div class="bg-white dark:bg-warmgray-900 p-5 my-4">
         <h1 class="mb-2 text-4xl font-bold">{{.Title}}</h1>
+
         <aside id="meta">
           <div>
             <section>
@@ -29,18 +30,34 @@
         <img class="py-4" src="{{ .Params.image | absURL }}">
         {{ end }}
 
-        {{ if  .TableOfContents }}
-          <div class="toc-wrapper my-6 p-4 border rounded bg-gray-100">
-            <button id="toc-toggle" class="mb-2 px-3 py-1 bg-gray-300 text-sm rounded hover:bg-gray-400">
-              {{ if .Site.Params.toc_default_open }}[閉じる]{{ else }}目次[開く]{{ end }}
-            </button>
+        {{/* ===== DEBUG + ToC 安全取得 ===== 
+        {{ $toc := .Page.TableOfContents }}
+        {{ warnf "post/single.html used • ToC len=%d • %s" (len $toc) .RelPermalink }}
 
-            <div id="toc-content" {{ if not .Site.Params.toc_default_open }}style="display:none;"{{ end }}>
-              <h2 class="text-xl font-semibold mb-2">目次</h2>
-              {{ .TableOfContents }}
+        <div class="p-2 text-xs bg-yellow-100 text-yellow-800">
+          DEBUG: post/single.html is used • ToC len={{ len $toc }}
+        </div>
+
+        {{ if gt (len $toc) 0 }}
+          <div class="toc-wrapper my-6 p-4 border rounded
+                      bg-gray-100 text-gray-800
+                      dark:bg-gray-800 dark:text-gray-100 dark:border-gray-700">
+
+            <h2 class="text-xl font-semibold mb-2">目次</h2>
+
+            <div id="toc-content"
+                class="mt-2 p-3 rounded border
+                        bg-white text-gray-800
+                        dark:bg-gray-900 dark:text-gray-100 dark:border-gray-700
+                        prose prose-sm dark:prose-invert">
+              {{ $toc | safeHTML }}
             </div>
           </div>
-        {{ end }}
+        {{ else }}
+          <div class="p-2 text-xs bg-red-100 text-red-800">
+            DEBUG: ToC is empty (no headings matched startLevel〜endLevel)
+          </div>
+        {{ end }}　*/}}
 
         {{ if and (and (.Site.Params.ad.googleAdSense) (.Site.Params.ad.postTop)) (.Site.Params.ad.adslot) }}
         <ins class="adsbygoogle" style="display:block" data-ad-client="{{.Site.Params.ad.googleAdSense}}"

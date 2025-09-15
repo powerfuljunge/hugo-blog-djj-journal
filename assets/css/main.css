@@ -2,3 +2,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .toc-wrapper { @apply my-6 p-4 border rounded bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-100 dark:border-gray-700; }
+  #toc-toggle  { @apply mb-2 px-3 py-1 text-sm rounded bg-gray-300 hover:bg-gray-400 dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white; }
+  #toc-content { @apply mt-2 p-3 rounded border bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-100 dark:border-gray-700 prose prose-sm dark:prose-invert; }
+  .toc-title   { @apply text-xl font-semibold mb-2; }
+}
+

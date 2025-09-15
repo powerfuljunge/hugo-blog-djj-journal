@@ -1,4 +1,5 @@
-{{ define "header_css" }}{{ end }}
+{{ define "header_css" }}
+{{ end }}
 
 {{ define "main" }}
 <div class="grid grid-cols-3 gap-4">
@@ -9,16 +10,29 @@
             {{ end }}
             <h1 class="title text-4xl font-bold mb-2">{{.Title}}</h1>
 
-            {{ if .TableOfContents }}  <!-- 🔧 目次ブロックの追加 -->
-            <div class="toc my-6 p-4 border rounded 
-                        bg-gray-50 text-gray-800 
-                        dark:bg-gray-800 dark:text-gray-100 dark:border-gray-700">
-              <h2 class="text-xl font-semibold mb-2">目次</h2>
-              <div class="prose prose-sm dark:prose-invert">
-                {{ .TableOfContents }}
-              </div>
+            {{/* image / thumbnail / cover の順に使い、無ければページ内の最初の画像を採用 */}}
+            {{ $img := or .Params.image (or .Params.thumbnail .Params.cover) }}
+            {{ if not $img }}
+            {{ with .Resources.ByType "image" }}
+                {{ with (index . 0) }} {{ $img = .RelPermalink }} {{ end }}
+            {{ end }}
+            {{ end }}
+            {{ with $img }}
+            <figure class="post-thumb my-4">
+                <img src="{{ . | absURL }}" alt="{{ $.Title }}">
+            </figure>
+            {{ end }}
+
+            {{ $toc := .Page.TableOfContents }}
+            {{ if gt (len $toc) 0 }}
+            <div class="dj-toc my-4">
+                <button id="dj-toc-toggle">目次[開く]</button>
+                <div id="dj-toc-content" style="display:none;">
+                <h2 class="dj-toc-title">目次</h2>
+                {{ $toc | safeHTML }}
+                </div>
             </div>
-            {{ end }}  <!-- 🔧 ここまで -->
+            {{ end }}
 
             <div class="content prose md:prose-lg lg:prose-xl max-w-none dark:prose-invert py-1">{{.Content}}</div>
         </div>

@@ -87,18 +87,18 @@
   </script>
 
   <script>
-   document.addEventListener("DOMContentLoaded", function () {
-    const tocToggle = document.getElementById("toc-toggle");
-    const tocContent = document.getElementById("toc-content");
-
-    if (tocToggle && tocContent) {
-      tocToggle.addEventListener("click", function () {
-        const isHidden = tocContent.style.display === "none";
-        tocContent.style.display = isHidden ? "block" : "none";
-        tocToggle.textContent = isHidden ? "[閉じる]" : "目次[開く]";
-      });
-     }
+  document.addEventListener("DOMContentLoaded", function () {
+    const btn = document.getElementById("dj-toc-toggle") || document.getElementById("toc-toggle");
+    const box = document.getElementById("dj-toc-content") || document.getElementById("toc-content");
+    if (!btn || !box) return;
+    const isHidden = () => window.getComputedStyle(box).display === "none";
+    btn.addEventListener("click", () => {
+      const hidden = isHidden();
+      box.style.display = hidden ? "block" : "none";
+      btn.textContent = hidden ? "[閉じる]" : "目次[開く]";
+      btn.setAttribute("aria-expanded", hidden ? "true" : "false");
     });
+  });
   </script>
 
 </footer>
