@@ -1,5 +1,5 @@
 [build]
-  command = "npm ci && npx tailwindcss -i ./themes/Blonde/assets/css/main.css -o ./themes/Blonde/assets/css/style.css --minify && hugo --gc --minify"
+  command = "npm ci && npx -y tailwindcss@latest -i ./themes/Blonde/assets/css/main.css -o ./themes/Blonde/assets/css/style.css --minify && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
