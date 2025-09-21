@@ -1,8 +1,8 @@
 [build]
-  command = "npm ci && npm run build && hugo --gc --minify"
+  command = "npm ci && npx tailwindcss -i ./themes/Blonde/assets/css/main.css -o ./themes/Blonde/assets/css/style.css --minify && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.147.0"  # まずは現状のまま。ローカルと揃えるのがベスト
+  HUGO_VERSION = "0.147.0"
   HUGO_ENV = "production"
   NODE_VERSION = "20"
