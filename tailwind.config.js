@@ -1,13 +1,18 @@
+// tailwind.config.js
 module.exports = {
-  content: ["./**/*.html", "./**/*.md", "config.toml"],
+  content: [
+    "./content/**/*.{md,html}",
+    "./layouts/**/*.html",
+    "./themes/Blonde/layouts/**/*.html",
+    "./config.toml",
+  ],
   safelist: [
-    // Hugoが生成するTOC/本文装飾で使う可能性があるクラスやパターン
-    'prose', 'prose-invert',
+    "prose","prose-invert",
     { pattern: /prose-.*/ },
-    // テーマが使うtoc系クラス（テーマ側のクラス名に合わせて調整）
-    'toc', 'toc-title', 'toc-content'
+    "dj-toc","dj-toc-content","toc","toc-content"
   ],
   darkMode: "class",
+
   theme: {
     extend: {
       colors: {

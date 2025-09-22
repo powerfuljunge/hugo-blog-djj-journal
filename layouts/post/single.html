@@ -37,6 +37,9 @@
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
         {{ end }}
+
+        {{ partial "toc.html" . }}
+
         <div class="prose md:prose-lg lg:prose-xl max-w-none dark:prose-invert mt-5">{{.Content}}</div>
         {{ if and (and (.Site.Params.ad.googleAdSense) (.Site.Params.ad.postBottom)) (.Site.Params.ad.adslot) }}
         <ins class="adsbygoogle" style="display:block" data-ad-client="{{.Site.Params.ad.googleAdSense}}"

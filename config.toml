@@ -71,6 +71,8 @@ darkmode = "light"
     # Number of characters in description
     description = "75"
 
+    toc = true
+
   [params.profile]
     name = "HARIBO先生"
     bio = "生きたドイツ語に触れながら、ドイツの様子が分かるように自分の経験も含めた時事的情報を発信します。"

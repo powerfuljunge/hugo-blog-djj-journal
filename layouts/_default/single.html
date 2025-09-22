@@ -23,16 +23,7 @@
             </figure>
             {{ end }}
 
-            {{ $toc := .Page.TableOfContents }}
-            {{ if gt (len $toc) 0 }}
-            <div class="dj-toc my-4">
-                <button id="dj-toc-toggle">目次[開く]</button>
-                <div id="dj-toc-content" style="display:none;">
-                <h2 class="dj-toc-title">目次</h2>
-                {{ $toc | safeHTML }}
-                </div>
-            </div>
-            {{ end }}
+            {{ if eq .Section "posts" }}{{ partial "toc.html" . }}{{ end }}
 
             <div class="content prose md:prose-lg lg:prose-xl max-w-none dark:prose-invert py-1">{{.Content}}</div>
         </div>

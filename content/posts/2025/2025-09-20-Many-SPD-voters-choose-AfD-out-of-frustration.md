@@ -1,6 +1,5 @@
 ---
 title: ドイツ地方選挙（NRW2025）解説｜AfDが支持拡大、SPD支持者の動向は？/第８７９号
-toc: true
 author: HARIBO先生
 date: 2025-09-20 17:02:09+09:00
 url: /Many-SPD-voters-choose-AfD-out-of-frustration/
@@ -23,7 +22,6 @@ tags:
 - AfD
 image: /img/2025/09/kommunalwahl-2025-nrw.webp
 ---
-{{<toc>}}
 ## コメントなど
 今回の選挙は州議会選挙ではなく、さらにその下の郡、市町村の首長や議員を選ぶためのものです。
 
