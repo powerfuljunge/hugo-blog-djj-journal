@@ -13,6 +13,7 @@
     "build": "tailwindcss -i ./themes/Blonde/assets/css/main.css -o ./themes/Blonde/assets/css/style.css && hugo --minify"
   },
   "devDependencies": {
+    "@tailwindcss/cli": "^4.1.13",
     "@tailwindcss/postcss": "^4.1.6",
     "@tailwindcss/typography": "^0.5.18",
     "autoprefixer": "^10.4.11",
