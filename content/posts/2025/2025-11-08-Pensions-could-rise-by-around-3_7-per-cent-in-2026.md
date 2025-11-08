@@ -2,8 +2,8 @@
 title: ドイツの年金が上がる？ 2026年の3.7％引き上げ草案と日本との比較/第８８６号
 author: HARIBO先生
 date: 2025-11-08 16:02:09+09:00
-url: /Pensions-could-rise-by-around-3.7-per-cent-in-2026
-slug: Pensions-could-rise-by-around-3.7-per-cent-in-2026
+url: /Pensions-could-rise-by-around-3_7-per-cent-in-2026
+slug: Pensions-could-rise-by-around-3_7-per-cent-in-2026
 
 last_modified:
 - 2025-11-08 16:03:09+09:00
@@ -19,7 +19,7 @@ categories:
 - 生活
 tags:
 - 年金
-image: /img/2025/11/Pensions-could-rise-by-around-3.7-per-cent-in-2026.webp
+image: /img/2025/11/Pensions-could-rise-by-around-3_7-per-cent-in-2026.webp
 ---
 ## コメントなど
 📰 政府の年金見通し（2026年以降）
