@@ -12,8 +12,6 @@ image: /img/uploads/2026-05-pages-cms-test.webp
 ---
 見出し、箇条書き、表、リンク
 
-<!--more-->
-
 
 
 ## コメントなど
@@ -26,16 +24,13 @@ Pages CMSからの投稿ができるかテストしています。
 表は、表示できるか？
 
 | チェック項目 | 内容 |
-
-| -- | -- |
-
+|---|---|
 | 見出し | 入力どおりにブログに反映されるか |
-
 | 表 | MD記法が反映されるか |
 
 工作機械はおもしろいのサイトは↓↓↓
 
-<https://infopolis.org>
+[https://infopolis.org](https://infopolis.org)
 
 
 
