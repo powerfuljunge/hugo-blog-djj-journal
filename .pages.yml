@@ -1,0 +1,84 @@
+media:
+  input: static/img/uploads
+  output: /img/uploads
+  rename: safe
+  categories: [image]
+
+content:
+  - name: posts
+    label: 記事
+    type: collection
+    path: content/posts
+    format: yaml-frontmatter
+    subfolders: true
+    filename:
+      template: "{year}/{year}-{month}-{day}-{fields.slug}.md"
+      field: create
+    view:
+      primary: title
+      fields: [date, categories, tags]
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: タイトル
+        type: string
+        required: true
+
+      - name: description
+        label: 概要
+        type: text
+
+      - name: author
+        label: 著者
+        type: string
+        default: HARIBO先生
+
+      - name: date
+        label: 公開日時
+        type: date
+        required: true
+        options:
+          time: true
+
+      - name: url
+        label: URL
+        type: string
+
+      - name: slug
+        label: Slug
+        type: string
+        required: true
+
+      - name: categories
+        label: カテゴリ
+        type: string
+        list: true
+
+      - name: tags
+        label: タグ
+        type: string
+        list: true
+
+      - name: image
+        label: 画像
+        type: image
+
+      - name: newsletter_subject
+        label: メルマガ件名
+        type: string
+
+      - name: newsletter_intro
+        label: メルマガ導入文
+        type: text
+
+      - name: newsletter_summary
+        label: メルマガ要約
+        type: text
+
+      - name: body
+        label: 本文
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
