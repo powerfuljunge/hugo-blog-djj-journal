@@ -1,7 +1,7 @@
 ---
 title: Pages CMSテスト投稿
 author: HARIBO先生
-date: 2026-05-26T17:02
+date: 2026-05-26T17:02:00+09:00
 url: /pages-cms-test
 slug: pages-cms-test
 categories:
