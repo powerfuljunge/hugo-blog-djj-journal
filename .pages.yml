@@ -16,9 +16,11 @@ content:
       field: create
     view:
       primary: title
-      fields: [date, categories, tags]
-      sort: date
-      order: desc
+      fields: [title, slug, date, categories, tags]
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
     fields:
       - name: title
         label: タイトル
