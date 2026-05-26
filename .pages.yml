@@ -43,6 +43,13 @@ content:
         options:
           time: true
           format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+
+      - name: lastmod
+        label: 更新日時
+        type: date
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX" 
           
       - name: url
         label: URL（通常は /slug）
