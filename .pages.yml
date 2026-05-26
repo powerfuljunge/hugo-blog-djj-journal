@@ -45,7 +45,7 @@ content:
           format: "yyyy-MM-dd'T'HH:mm:ssXXX"
           
       - name: url
-        label: URL
+        label: URL（通常は /slug）
         type: string
 
       - name: slug
