@@ -1,7 +1,7 @@
 ---
 title: URLなしテスト投稿
 author: HARIBO先生
-date: 2026-05-26T20:16:00+00:00
+date: 2026-05-26T20:16:00+09:00
 slug: pages-cms-url-test
 categories:
   - テスト
