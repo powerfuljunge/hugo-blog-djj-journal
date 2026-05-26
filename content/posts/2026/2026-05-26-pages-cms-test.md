@@ -32,6 +32,7 @@ Pages CMSからの投稿ができるかテストしています。
 
 [https://infopolis.org](https://infopolis.org)
 
+[インフォポリス](https://infopolis.org)
 
 
 以上
