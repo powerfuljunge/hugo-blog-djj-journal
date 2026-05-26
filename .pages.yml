@@ -62,9 +62,27 @@ content:
 
       - name: categories
         label: カテゴリ
-        type: string
+        type: select
         list: true
-
+        options:
+          multiple: true
+          values:
+            - 政治
+            - 経済
+            - 生活
+            - 社会
+            - 税金
+            - 年金
+            - 移民政策
+            - 環境政策
+            - エネルギー政策
+            - イベント
+            - 性犯罪
+            - 交渉術
+            - 歴史
+            - フィットネス
+            - スポーツ
+            
       - name: tags
         label: タグ
         type: string
