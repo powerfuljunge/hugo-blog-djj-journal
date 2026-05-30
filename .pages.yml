@@ -28,7 +28,7 @@ content:
         required: true
 
       - name: description
-        label: 概要
+        label: meta description
         type: text
 
       - name: author
