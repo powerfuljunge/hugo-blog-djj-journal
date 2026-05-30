@@ -9,7 +9,8 @@ date: 2026-05-30T16:31:00Z
 lastmod: 2026-05-30T16:31:00Z
 url: /300000-neue-deutsche-einbuergerung-identitaet
 slug: 300000-neue-deutsche-einbuergerung-identitaet
-categories: 移民政策
+categories: 
+  - 移民政策
 tags:
   - 帰化
 image: /img/uploads/300000-neue-deutsche-einbuergerung-identitaet.webp
