@@ -63,7 +63,6 @@ content:
       - name: categories
         label: カテゴリ
         type: select
-        list: true
         options:
           multiple: true
           values:
