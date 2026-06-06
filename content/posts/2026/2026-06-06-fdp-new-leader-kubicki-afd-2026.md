@@ -2,8 +2,8 @@
 title: FDP新党首にクビキ氏　AfDとの距離感が問われる党再建の行方/第９１６号
 description: FDPの新党首にヴォルフガング・クビキ氏が選出された。党内対立の背景やAfDとの距離感、議会から姿を消したFDPの再建戦略について考察する。
 author: HARIBO先生
-date: 2026-06-06T19:39:00Z
-lastmod: 2026-06-06T19:39:00Z
+date: 2026-06-06T19:39:00+09:00
+lastmod: 2026-06-06T19:39:00+09:00
 url: /fdp-new-leader-kubicki-afd-2026
 slug: fdp-new-leader-kubicki-afd-2026
 categories:
