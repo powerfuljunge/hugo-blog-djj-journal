@@ -22,7 +22,7 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 
 今回の議論はドイツ特有の問題ではありません。少子高齢化が進む日本にとっても、将来の社会保障制度を考える上で示唆に富む内容となっています。
 
-<!--more-->
+
 
 ## コメントなど
 
@@ -31,7 +31,6 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 - 今後2年間で介護保険の赤字が225億ユーロに達すると予測している。  
 
   およそ4兆2000億円です。
-
 - 介護保険はすでに支出が収入を上回る状態(つまり赤字）が続いており、現行制度の維持が難しくなっている。
 
 そこで、ヴァルケン保健相は、保険料引き上げだけでなく、給付削減も組み合わせて財政再建を図ろうと考えている。
@@ -41,6 +40,8 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 - 高所得者については保険料算定上限（Beitragsbemessungsgrenze）の引き上げを検討。- これにより2027年に16億ユーロ、その後も年間17億ユーロ程度の増収を見込んでいる。
 
 ### ■どんな改革を考えているのか？
+
+
 
 | 改革案 | 内容 | 政府の狙い・効果 |
 
@@ -62,6 +63,8 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 
 | 配偶者の無料加入を制限 | 現在の家族向け無料加入制度を2028年以降縮小 | 年間約3.5億ユーロの増収 |
 
+
+
 今回の改革案を見ると、歳入増の「保険料を上げる」より、歳出減の「給付を減らす」「認定を厳しくする」「家族介護へ誘導する」という内容で介護保険財政の立て直しを図ろうとしていることが分かる。
 
 ### ■これはドイツだけの問題ではない
@@ -69,13 +72,9 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 今回の改革案を見ると、日本の介護保険が抱える問題と驚くほど似ている。ネックになっている課題は何だろう？
 
 - 高齢者増加
-
 - 介護人材不足
-
 - 財源不足
-
 - 保険料上昇
-
 - 給付抑制
 
 介護制度は「高齢者が増え続ける」という前提の前では、どの国でも同じ壁にぶつかる。
@@ -87,9 +86,7 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 その結果、
 
 - 認定対象者が大幅増加
-
 - 軽度認定者も給付対象
-
 - 認知症患者への支援拡大
 
 が実現した。
@@ -117,9 +114,7 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 しかしそうなると、別の問題が出てくる。
 
 - 家族介護者の負担増
-
 - 女性への負担集中
-
 - 就労との両立問題
 
 ### ■政治的な意味
@@ -131,9 +126,7 @@ image: /img/uploads/germany-pflegeversicherung-reform-warken-2026.webp
 ただし有権者から見ると、
 
 - 保険料は上がる
-
 - 給付は減る
-
 - 認定は厳しくなる
 
 そのため今後、介護団体や野党だけでなく、与党内からの反発も強まる可能性が高い。
