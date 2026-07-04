@@ -12,7 +12,6 @@ tags:
   - AfD
 image: /img/uploads/afd-ban-debate-democracy.webp
 ---
-```markdown
 AfD禁止論が再びドイツ政治の話題になっています。
 しかし今回の論点は、AfDだけではなく「民主主義は自らをどう守るのか」という難しい問題でもあります。
 
