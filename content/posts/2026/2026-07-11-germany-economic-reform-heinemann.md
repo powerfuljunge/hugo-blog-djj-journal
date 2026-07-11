@@ -12,7 +12,7 @@ tags:
   - 制度改革
 image: /img/uploads/germany-economic-reform-heinemann.webp
 ---
-```markdown
+
 ドイツの経済学者フリードリヒ・ハイネマンは、メルツ政権の改革パッケージを前向きに評価しています。
 
 ドイツの黒赤連立政権は、年金、税制、社会保険、病気休暇制度、官僚主義の削減など、幅広い改革を進めようとしています。
