@@ -134,7 +134,7 @@ tagesschau.de
 ## 今日の記事
 法律無視のメルツさん。人気は無くなってるけど、もう気にしてない？
 
-„Verfassungsrechtlich unsauber“ – 　　
+„Verfassungsrechtlich unsauber“ –  
 Jurist hat Bedenken wegen später Minister-Vereidigung
 
 Die neuen Minister sollen schon nächste Woche ihr Amt übernehmen, aber erst im September vereidigt werden. Ein ehemaliger Chefjurist des Bundespräsidialamts hält das für problematisch.
