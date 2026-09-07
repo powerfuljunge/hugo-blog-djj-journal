@@ -13,7 +13,7 @@ categories:
 tags:
   - 州議会選挙
   - AfD
-image: /img/uploads/2026-09-08-sachsen-anhalt-state-election-2026-result-1.webp
+image: /img/uploads/2026-09-08-sachsen-anhalt-state-election-2026-result-2.webp
 ---
 ドイツの政界に嵐が吹き荒れました。
 
