@@ -2,8 +2,8 @@
 title: "ベルリン連立協議、CDUはどこへ――AfD伸長で変わる政権づくり／第937号"
 description: "ベルリンの左派党・緑の党・SPDの連立協議と住宅の社会化構想を整理。CDUの後退、メルツ首相の不人気、AfDの伸長が州議会の多数形成にどう影響するかを考えます。"
 author: "HARIBO先生"
-date: "2026-10-31T15:00:00+09:00"
-lastmod: "2026-10-31T15:00:00+09:00"
+date: "2026-10-31T14:53:37+09:00"
+lastmod: "2026-10-31T14:53:37+09:00"
 url: "/berlin-coalition-cdu-afd"
 slug: "berlin-coalition-cdu-afd"
 categories: ["政治"]
